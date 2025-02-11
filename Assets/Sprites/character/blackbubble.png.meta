@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 62cc86d8353d3e74a9bbb72e412a384a
+guid: 9da9b7ea9a3144f408a9570e511f794f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 742365837665639534
-    second: CappiUpWalk_4_0
+      213: -3088605571177758444
+    second: blackbubble_0
+  - first:
+      213: 8875963820535760889
+    second: blackbubble_1
+  - first:
+      213: 6890527410335991171
+    second: blackbubble_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 45
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CappiUpWalk_4_0
+      name: blackbubble_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 48
-        height: 56
+        x: 16
+        y: 21
+        width: 40
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e6c127fcbc96d4a00800000000000000
-      internalID: 742365837665639534
+      spriteID: 41148aed8911325d0800000000000000
+      internalID: -3088605571177758444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackbubble_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 21
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c0426112cd2b70800000000000000
+      internalID: 8875963820535760889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blackbubble_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3854b201c2210af50800000000000000
+      internalID: 6890527410335991171
       vertices: []
       indices: 
       edges: []
@@ -134,8 +184,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      CappiUpWalk_4_0: 742365837665639534
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
