@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CappiRightWalk_3_0: -3310408505623790835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

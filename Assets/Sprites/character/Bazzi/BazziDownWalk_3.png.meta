@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BazziDownWalk_3_0: 1100045357896390878
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

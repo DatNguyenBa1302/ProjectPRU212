@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BazziLeftWalk_2_0: 428015597164218608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
