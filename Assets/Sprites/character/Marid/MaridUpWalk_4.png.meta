@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MaridUpWalk_4_0: 1343225218873648219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
