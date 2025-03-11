@@ -54,7 +54,7 @@ public class MovementController : MonoBehaviour
         rigidbody.MovePosition(position + translation);
     }
 
-    private void SetDirection(Vector2 newDirection, AnimationSpritesRender animationSpritesRender)
+    public void SetDirection(Vector2 newDirection, AnimationSpritesRender animationSpritesRender)
     {
         direction = newDirection;
 

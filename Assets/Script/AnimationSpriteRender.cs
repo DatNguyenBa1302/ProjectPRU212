@@ -14,7 +14,6 @@ public class AnimationSpritesRender : MonoBehaviour
     public void Awake()
     {
         spriteRender = GetComponent<SpriteRenderer>();
-        Debug.Log(">>>> spriteRender " + spriteRender);
 
     }
 
