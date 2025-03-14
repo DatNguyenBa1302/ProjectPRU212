@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7168189049298628355}
   - component: {fileID: 7370423260969654613}
   - component: {fileID: -3658431683141140634}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DestructibleMap1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -129,6 +129,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destructionTime: 1
+  itemSpawnChance: 0.5
+  spawnAbleItems:
+  - {fileID: 7391121747187362648, guid: 35c9f0432551f0c4388370d12023cf9a, type: 3}
+  - {fileID: 3278748862913823695, guid: fcc0e196067d9034d8feb0d6a7b2b9fb, type: 3}
+  - {fileID: 8263732198150243352, guid: f76f9c36aee052a43ba570c82eced565, type: 3}
 --- !u!61 &-3658431683141140634
 BoxCollider2D:
   m_ObjectHideFlags: 0

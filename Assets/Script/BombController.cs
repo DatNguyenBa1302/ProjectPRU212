@@ -9,7 +9,7 @@ public class BombController : MonoBehaviour
     public KeyCode inputKey = KeyCode.Space;
     public float bombFuseTime = 3f;
     public int bombAmount = 1;
-    private int bombsRemaining = 0;
+    public int bombsRemaining = 0;
 
     [Header("Explosion")]
     public Explosion explosionPrefab;
@@ -21,20 +21,29 @@ public class BombController : MonoBehaviour
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
 
-    private void OnEnable()
+	private bool bombPlacementInProgress = false;
+
+	private void OnEnable()
     {
         bombsRemaining = bombAmount;
     }
 
     private void Update()
     {
-        if(Input.GetKeyDown(inputKey) && bombsRemaining > 0) 
+        if(Input.GetKeyDown(inputKey) && bombsRemaining > 0 && !bombPlacementInProgress) 
         {
             StartCoroutine(PlaceBomb());
         }
     }
+	public void TriggerBomb()
+	{
+		if (bombsRemaining > 0 && !bombPlacementInProgress)
+		{
+			StartCoroutine(PlaceBomb());
+		}
+	}
 
-    private IEnumerator PlaceBomb()
+	private IEnumerator PlaceBomb()
     {
         Vector2 position = transform.position;
         position.x = Mathf.Round(position.x);
@@ -109,6 +118,12 @@ public class BombController : MonoBehaviour
             Instantiate(destructiblePrefab, position, Quaternion.identity);
             destructibleTiles.SetTile(cell, null);
         }
+    }
+
+    public void AddBomb()
+    {
+        bombAmount++;
+        bombsRemaining++;   
     }
      
 }

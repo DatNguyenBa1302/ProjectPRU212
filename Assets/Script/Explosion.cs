@@ -9,7 +9,6 @@ public class Explosion : MonoBehaviour
     public void SetActiveRenderer(AnimationSpritesRender renderer)
     {
         start.enabled = renderer == start;
-        Debug.Log("start.enabled: " + start.enabled);
         middle.enabled = renderer == middle;
         end.enabled = renderer == end;
     }

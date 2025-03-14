@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class MovementController : MonoBehaviour
@@ -16,7 +17,8 @@ public class MovementController : MonoBehaviour
     public AnimationSpritesRender spriteRenderDown;
     public AnimationSpritesRender spriteRenderLeft;
     public AnimationSpritesRender spriteRenderRight;
-    private AnimationSpritesRender activeSpriteRender;
+	public AnimationSpritesRender spriteRenderDeath;
+	private AnimationSpritesRender activeSpriteRender;
     public void Awake()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -66,5 +68,33 @@ public class MovementController : MonoBehaviour
         activeSpriteRender = animationSpritesRender;
         activeSpriteRender.idle = direction == Vector2.zero;
 
+    }
+
+	private void OnTriggerEnter2D(Collider2D other)
+	{
+		if(other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
+        {
+            DeathSequence();
+        }
+	}
+
+    private void DeathSequence()
+    {
+        enabled = false;
+        GetComponent<BombController>().enabled = false;
+
+        spriteRenderDown.enabled = false;
+		spriteRenderUp.enabled = false;
+		spriteRenderRight.enabled = false;
+		spriteRenderLeft.enabled = false;
+        spriteRenderDeath.enabled = true;
+
+        Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+	}
+
+    private void OnDeathSequenceEnded()
+    {
+        gameObject.SetActive(false);
+        FindObjectOfType<GameManager>().CheckWinState();
     }
 }
