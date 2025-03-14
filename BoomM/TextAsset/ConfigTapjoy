@@ -1,0 +1,66 @@
+[
+  {
+    "AOSSdkKey": "v3qkIeHbSv6IDKmwgysMgwECTTICJHUZWd6Jgnpdl5da45QRkZjY2x8fJLeE",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_DEV",
+    "IOSSdkKey": "iCbXaQiWStu7VW4Z94R2yQEBQQ8m3VsfjrEME7gKMUdgIrBngfHwQ0_gREdJ",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "v3qkIeHbSv6IDKmwgysMgwECTTICJHUZWd6Jgnpdl5da45QRkZjY2x8fJLeE",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_DEV_DEBUG",
+    "IOSSdkKey": "iCbXaQiWStu7VW4Z94R2yQEBQQ8m3VsfjrEME7gKMUdgIrBngfHwQ0_gREdJ",
+    "IsDebugMode": true,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "RAVS_OyZR0KfvodzGFc5swECeXn3fH2i5NOBNhgUe5T5QTS-YRZS4Lb1TnDb",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_STAGE",
+    "IOSSdkKey": "M4dWuMJrRZGsox4-x2FVQAEBlFT1bcZZUqg7cJokmKO6EBC3Zkpu03BFsqzX",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "TWzLv8TlStqTqjBmbYHiDQECkXwN1HPjW9JD4BNtL95IwvQKR2UbKWXnxnZ9",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_CBT",
+    "IOSSdkKey": "hU4Mk-VzSWG--JzN2b1XJQEBvQ3uZkCYLt53S1Iq9nUTXjLdSvE2KKuN28xb",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "z_--xB7uSR6xo3Of8ijHAQECoGep9q0gJ3cHHEAajI5NRl47oH9yzc1dBfTQ",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_LIVE",
+    "IOSSdkKey": "AHVmVuarQfKpraH-sPvLKgEBCYpLuzBO1aKYGwgwAtH8cbM7RDujHMrkoO-s",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "KjDc3hEbTbKlbLHoBnlEkgECdo4gqEJHiDdFUkpMiRo316EshGEr5NoRgrEI",
+    "GCMSenderKey": "217195731084",
+    "id": "TAPJOY_IBT",
+    "IOSSdkKey": "M3EXuI6oS3mYPpSBnjHoagEBDyjkOaURNOj1G86c2AuAX0mUMkpGtIM-bOGp",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "B3Z_omQLT0K-3hdbv7a3GwECo3TP97tNgiNbFtyj0vcxDsmlIOaEZxJGlpLP",
+    "GCMSenderKey": "576470316611",
+    "id": "TAPJOY_VIETNAM_LIVE",
+    "IOSSdkKey": "AwJLn22GS-ach3dhDscn5AEBeuuB9ZIb5WF70oJYLicl8LWEz_1jEpJ84zz8",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  },
+  {
+    "AOSSdkKey": "TWzLv8TlStqTqjBmbYHiDQECkXwN1HPjW9JD4BNtL95IwvQKR2UbKWXnxnZ9",
+    "GCMSenderKey": "576470316611",
+    "id": "TAPJOY_VIETNAM_STAGE",
+    "IOSSdkKey": "hU4Mk-VzSWG--JzN2b1XJQEBvQ3uZkCYLt53S1Iq9nUTXjLdSvE2KKuN28xb",
+    "IsDebugMode": false,
+    "TryToReconnect": true
+  }
+]

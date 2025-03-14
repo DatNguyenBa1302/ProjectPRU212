@@ -1,0 +1,83 @@
+
+Pet.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KnockDownBodyEffect_0
+  rotate: false
+  xy: 2, 113
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+KnockDownBodyEffect_1
+  rotate: false
+  xy: 131, 113
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+KnockDownBodyEffect_2
+  rotate: false
+  xy: 260, 113
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+KnockDownBodyEffect_3
+  rotate: false
+  xy: 389, 113
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+KnockDownBodyEffect_4
+  rotate: false
+  xy: 518, 113
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+banana_icon
+  rotate: false
+  xy: 114, 11
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+sod1
+  rotate: false
+  xy: 766, 140
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+sod2
+  rotate: false
+  xy: 647, 141
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+sod3
+  rotate: true
+  xy: 2, 2
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+sod4
+  rotate: false
+  xy: 882, 168
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+sod5
+  rotate: false
+  xy: 216, 26
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1

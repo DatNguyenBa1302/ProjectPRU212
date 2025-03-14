@@ -1,0 +1,138 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+summons/attack2_buff/restore_0
+  rotate: false
+  xy: 2, 704
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_1
+  rotate: false
+  xy: 2, 470
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_10
+  rotate: false
+  xy: 240, 2
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_11
+  rotate: false
+  xy: 478, 236
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_12
+  rotate: false
+  xy: 716, 470
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_13
+  rotate: false
+  xy: 478, 2
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_14
+  rotate: false
+  xy: 716, 236
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_15
+  rotate: false
+  xy: 716, 2
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_2
+  rotate: false
+  xy: 240, 704
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_3
+  rotate: false
+  xy: 2, 236
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_4
+  rotate: false
+  xy: 240, 470
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_5
+  rotate: false
+  xy: 478, 704
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_6
+  rotate: false
+  xy: 2, 2
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_7
+  rotate: false
+  xy: 240, 236
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_8
+  rotate: false
+  xy: 478, 470
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+summons/attack2_buff/restore_9
+  rotate: false
+  xy: 716, 704
+  size: 236, 232
+  orig: 236, 232
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+winged-sword_38006
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

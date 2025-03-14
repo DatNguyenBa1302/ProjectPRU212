@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lightning/1
+  rotate: true
+  xy: 278, 48
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+lightning/2
+  rotate: true
+  xy: 346, 48
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+lightning/3
+  rotate: true
+  xy: 414, 48
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+lightning/4
+  rotate: true
+  xy: 751, 49
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+lightning/5
+  rotate: true
+  xy: 550, 50
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+lightning/6
+  rotate: true
+  xy: 618, 50
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+lightning/7
+  rotate: true
+  xy: 686, 48
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+lightning/8
+  rotate: true
+  xy: 482, 49
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+lightning/a
+  rotate: true
+  xy: 475, 10
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+lightning/a1
+  rotate: false
+  xy: 554, 18
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+lightning/a2
+  rotate: false
+  xy: 2, 2
+  size: 116, 31
+  orig: 116, 31
+  offset: 0, 0
+  index: -1
+lightning/a3
+  rotate: false
+  xy: 120, 5
+  size: 116, 29
+  orig: 116, 29
+  offset: 0, 0
+  index: -1
+lightning/b
+  rotate: true
+  xy: 238, 2
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+lightning/b1
+  rotate: true
+  xy: 76, 36
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+lightning/b2
+  rotate: true
+  xy: 2, 35
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+lightning/b3
+  rotate: true
+  xy: 142, 43
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+lightning/b4
+  rotate: true
+  xy: 212, 44
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+lightning/c
+  rotate: true
+  xy: 317, 6
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+lightning/d
+  rotate: true
+  xy: 396, 6
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+lightning/e
+  rotate: false
+  xy: 645, 13
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+lightning/flow1
+  rotate: false
+  xy: 816, 65
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+lightning/flow2
+  rotate: false
+  xy: 816, 8
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

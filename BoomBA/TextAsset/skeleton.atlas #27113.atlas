@@ -1,0 +1,132 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+summons/ball_aura/default_0
+  rotate: false
+  xy: 2, 376
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_1
+  rotate: false
+  xy: 2, 245
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_2
+  rotate: false
+  xy: 133, 376
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_3
+  rotate: false
+  xy: 2, 114
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_4
+  rotate: false
+  xy: 133, 245
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_5
+  rotate: false
+  xy: 264, 376
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_6
+  rotate: false
+  xy: 133, 114
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_7
+  rotate: false
+  xy: 264, 245
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_0
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_1
+  rotate: false
+  xy: 395, 395
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_2
+  rotate: false
+  xy: 264, 133
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_3
+  rotate: false
+  xy: 114, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_4
+  rotate: false
+  xy: 395, 283
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_5
+  rotate: false
+  xy: 507, 395
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_6
+  rotate: false
+  xy: 507, 283
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_7
+  rotate: false
+  xy: 619, 395
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_8
+  rotate: false
+  xy: 619, 283
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_9
+  rotate: false
+  xy: 731, 395
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heart1
+  rotate: false
+  xy: 2, 30
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+heart2
+  rotate: false
+  xy: 584, 476
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+heart3
+  rotate: false
+  xy: 2, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+heart4
+  rotate: false
+  xy: 352, 98
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+heart5
+  rotate: true
+  xy: 32, 35
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+heart6
+  rotate: false
+  xy: 352, 126
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+heart7
+  rotate: false
+  xy: 487, 302
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_0
+  rotate: false
+  xy: 2, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_1
+  rotate: false
+  xy: 2, 154
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_10
+  rotate: false
+  xy: 390, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_11
+  rotate: false
+  xy: 390, 154
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_12
+  rotate: false
+  xy: 487, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_2
+  rotate: false
+  xy: 99, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_3
+  rotate: false
+  xy: 99, 154
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_4
+  rotate: true
+  xy: 2, 57
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_5
+  rotate: false
+  xy: 196, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_6
+  rotate: false
+  xy: 196, 154
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_7
+  rotate: false
+  xy: 293, 329
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_8
+  rotate: false
+  xy: 293, 154
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1
+summons/healer/2022698_9
+  rotate: true
+  xy: 177, 57
+  size: 95, 173
+  orig: 95, 173
+  offset: 0, 0
+  index: -1

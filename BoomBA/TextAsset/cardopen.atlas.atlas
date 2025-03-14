@@ -1,0 +1,328 @@
+
+cardopen.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+opengift/baa
+  rotate: false
+  xy: 110, 231
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+opengift/bb
+  rotate: false
+  xy: 218, 431
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_0
+  rotate: true
+  xy: 890, 524
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_1
+  rotate: false
+  xy: 326, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_10
+  rotate: false
+  xy: 550, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_11
+  rotate: false
+  xy: 662, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_12
+  rotate: false
+  xy: 774, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_13
+  rotate: false
+  xy: 662, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_14
+  rotate: false
+  xy: 774, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_15
+  rotate: false
+  xy: 886, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_16
+  rotate: false
+  xy: 774, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_17
+  rotate: false
+  xy: 886, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_18
+  rotate: false
+  xy: 886, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_19
+  rotate: false
+  xy: 2, 90
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_2
+  rotate: false
+  xy: 326, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_20
+  rotate: false
+  xy: 218, 490
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_21
+  rotate: false
+  xy: 110, 290
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_22
+  rotate: false
+  xy: 330, 512
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_23
+  rotate: false
+  xy: 442, 512
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_24
+  rotate: false
+  xy: 554, 512
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_25
+  rotate: false
+  xy: 666, 512
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_26
+  rotate: false
+  xy: 778, 512
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_3
+  rotate: false
+  xy: 438, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_4
+  rotate: false
+  xy: 326, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_5
+  rotate: false
+  xy: 438, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_6
+  rotate: false
+  xy: 550, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_7
+  rotate: false
+  xy: 438, 638
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_8
+  rotate: false
+  xy: 550, 764
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/item_OPEN_SPECIAL/areaWarning_9
+  rotate: false
+  xy: 662, 890
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_0
+  rotate: false
+  xy: 2, 816
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_1
+  rotate: false
+  xy: 2, 616
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_2
+  rotate: false
+  xy: 110, 816
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_3
+  rotate: false
+  xy: 2, 416
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_4
+  rotate: false
+  xy: 110, 616
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_5
+  rotate: false
+  xy: 218, 816
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_6
+  rotate: false
+  xy: 2, 216
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_7
+  rotate: false
+  xy: 110, 416
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/open_cards/v_8
+  rotate: false
+  xy: 218, 616
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+summons/starlight/42_0
+  rotate: false
+  xy: 2, 2
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_1
+  rotate: false
+  xy: 85, 2
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_2
+  rotate: true
+  xy: 330, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_3
+  rotate: true
+  xy: 418, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_4
+  rotate: true
+  xy: 506, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_5
+  rotate: true
+  xy: 594, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_6
+  rotate: true
+  xy: 682, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_7
+  rotate: true
+  xy: 770, 429
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1

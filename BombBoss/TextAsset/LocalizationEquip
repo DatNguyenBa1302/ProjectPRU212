@@ -1,0 +1,28 @@
+KEY,English,Tiếng Việt
+Language,English,Tiếng Việt
+needle.itemName,Needle,Kim ch©m
+needle.itemFeature,"When your character is locked in the water bubble, you can use needle to rescue.","Khi nh©n vËt cña b¹n bÞ nhèt trong bãng b­íc, cã thÓ sö dông kim ch©m ®Ó gi¶i cøu."
+needle.itemDesc,"When you use needle,you will not stuck in the water bubble.","Víi mét kim ch©m b¹n sÏ kh«ng bÞ m¾c kÑt trong bãng n­íc."
+bomb1.itemName,Water bubble,Bãng n­íc
+bomb1.itemFeature,Use to decorate your water bubbles.,Dïng ®Ó trang trÝ nh÷ng qu¶ bãng n­íc cña b¹n
+bomb1.itemDesc,You can into your bag and click two times to use this item.,B¹n cã thÓ vµo tói ®å vµ nhÊp 2 lÇn vµo ®Ó sö dông thø c­ng nµy. Khi vµo qu¶ng tr­êng thó c­ng sÏ ch¹y theo sau b¹n.
+bomb2.itemName,Rock bubble,Bãng ®¸
+bomb3.itemName,Purple bubble,Bãng mµu tÝm
+bomb4.itemName,Frightened eyes,M¾t kinh hoµng
+bomb5.itemName,Fish bubble,Bãng con c¸
+bomb6.itemName,Melon bubble,Bãng qu¶ d­a
+bomb7.itemName,Fruit bubble,Bãng bang
+bomb8.itemName,China bubble,Bãng th¸i cùc 
+waterBottle.itemName,Water bottle,B×nh n­íc
+waterBottle.itemDesc,"When you use this item, your bubble length will increase by 1 unit.","Khi sö dông vËt phÈm nµy ®é dµi bãng cña b¹n sÏ t¨ng lªn 1 ®¬n vÞ"
+pet0.itemName,Kitty,Kitty
+pet0.itemFeature,A species pet extremely loyalty to owner.,Mét loµi thó c­ng v« cïng trung thµnh víi chñ nh©n.
+pet0.itemDesc,"You can into your bag and click two times to use this pet. During you are in the square,your pet will follow you.","B¹n cã thÓ vµo tói ®å vµ nhÊp 2 lÇn vµo ®Ó sö dông thø c­ng nµy. Khi vµo qu¶ng tr­êng thó c­ng sÏ ch¹y theo sau b¹n."
+pet1.itemName,Wall-E,Wall-E
+pet1.itemFeature,Robot is left after the nuclear explosion.,Robot cßn sãt l¹i sau vô næ h¹t nh©n.
+pet2.itemName,Si Cat,MÌo m­íp
+pet2.itemFeature,One species ordinary cat.,Mét loµi mÌo b×nh th­êng h¬n ch÷ b×nh th­êng.
+pet3.itemName,Godzilla,Godzilla
+pet3.itemFeature,This animals are infected radiation after the failed experiment.,
+
+

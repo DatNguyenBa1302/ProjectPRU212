@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PetSkill/Unicorn/3
+  rotate: true
+  xy: 343, 16
+  size: 87, 91
+  orig: 87, 91
+  offset: 0, 0
+  index: -1
+PetSkill/Unicorn/freez1
+  rotate: true
+  xy: 191, 17
+  size: 36, 118
+  orig: 36, 118
+  offset: 0, 0
+  index: -1
+PetSkill/Unicorn/freez2
+  rotate: true
+  xy: 191, 55
+  size: 48, 150
+  orig: 48, 150
+  offset: 0, 0
+  index: -1
+PetSkill/Unicorn/freez3
+  rotate: true
+  xy: 2, 2
+  size: 101, 187
+  orig: 101, 187
+  offset: 0, 0
+  index: -1

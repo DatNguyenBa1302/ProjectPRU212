@@ -1,0 +1,272 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: false
+  xy: 340, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+aura/areaWarning_0
+  rotate: false
+  xy: 226, 32
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+aura/areaWarning_1
+  rotate: false
+  xy: 2, 226
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_10
+  rotate: false
+  xy: 114, 226
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_11
+  rotate: false
+  xy: 114, 100
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_12
+  rotate: false
+  xy: 226, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_13
+  rotate: false
+  xy: 226, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_14
+  rotate: false
+  xy: 338, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_15
+  rotate: false
+  xy: 338, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_16
+  rotate: false
+  xy: 450, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_17
+  rotate: false
+  xy: 450, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_18
+  rotate: false
+  xy: 562, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_19
+  rotate: false
+  xy: 562, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_2
+  rotate: false
+  xy: 165, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_20
+  rotate: false
+  xy: 674, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_21
+  rotate: false
+  xy: 674, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_22
+  rotate: false
+  xy: 786, 260
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_23
+  rotate: true
+  xy: 898, 274
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_24
+  rotate: true
+  xy: 898, 162
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_25
+  rotate: false
+  xy: 786, 134
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_26
+  rotate: true
+  xy: 898, 50
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_3
+  rotate: false
+  xy: 2, 100
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_4
+  rotate: false
+  xy: 277, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_5
+  rotate: false
+  xy: 389, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_6
+  rotate: false
+  xy: 501, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_7
+  rotate: false
+  xy: 613, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_8
+  rotate: false
+  xy: 725, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/areaWarning_9
+  rotate: false
+  xy: 837, 386
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+aura/chsn copy
+  rotate: false
+  xy: 2, 352
+  size: 161, 158
+  orig: 161, 158
+  offset: 0, 0
+  index: -1
+aura/heart1
+  rotate: true
+  xy: 2, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+aura/heart2
+  rotate: false
+  xy: 2, 72
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+aura/heart3
+  rotate: false
+  xy: 204, 358
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+aura/heart4
+  rotate: false
+  xy: 949, 445
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+aura/heart5
+  rotate: false
+  xy: 442, 78
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+aura/heart6
+  rotate: false
+  xy: 442, 106
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+aura/heart7
+  rotate: false
+  xy: 969, 485
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+music
+  rotate: true
+  xy: 165, 355
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+music2
+  rotate: false
+  xy: 949, 473
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1

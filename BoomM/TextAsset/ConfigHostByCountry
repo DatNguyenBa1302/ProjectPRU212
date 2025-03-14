@@ -1,0 +1,1252 @@
+[
+  {
+    "CountryName": "ETC_COUNTRY",
+    "ID": -1,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Afghanistan",
+    "ID": 4,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Albania",
+    "ID": 8,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Antarctica",
+    "ID": 10,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Algeria",
+    "ID": 12,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "AmericanSamoa",
+    "ID": 16,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Andorra",
+    "ID": 20,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Angola",
+    "ID": 24,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "AntiguaandBarbuda",
+    "ID": 28,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Azerbaijan",
+    "ID": 31,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Argentina",
+    "ID": 32,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Australia",
+    "ID": 36,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Austria",
+    "ID": 40,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bahamas",
+    "ID": 44,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Bahrain",
+    "ID": 48,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bangladesh",
+    "ID": 50,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Armenia",
+    "ID": 51,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Barbados",
+    "ID": 52,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Belgium",
+    "ID": 56,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bermuda",
+    "ID": 60,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bhutan",
+    "ID": 64,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bolivia",
+    "ID": 68,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "BosniaandHerzegovina",
+    "ID": 70,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Botswana",
+    "ID": 72,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "BouvetIsland",
+    "ID": 74,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Brazil",
+    "ID": 76,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Belize",
+    "ID": 84,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "BritishIndianOceanTerritory",
+    "ID": 86,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SolomonIslands",
+    "ID": 90,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "BritishVirginIslands",
+    "ID": 92,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "BruneiDarussalam",
+    "ID": 96,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Bulgaria",
+    "ID": 100,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Myanmar",
+    "ID": 104,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Burundi",
+    "ID": 108,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Belarus",
+    "ID": 112,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Cambodia",
+    "ID": 116,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Cameroon",
+    "ID": 120,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Canada",
+    "ID": 124,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "CaboVerde",
+    "ID": 132,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "CaymanIslands",
+    "ID": 136,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "CentralAfricanRepublic",
+    "ID": 140,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SriLanka",
+    "ID": 144,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Chad",
+    "ID": 148,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Chile",
+    "ID": 152,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "China",
+    "ID": 156,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Taiwan",
+    "ID": 158,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "ChristmasIsland",
+    "ID": 162,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "CocosIslands",
+    "ID": 166,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Colombia",
+    "ID": 170,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Comoros",
+    "ID": 174,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mayotte",
+    "ID": 175,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Congo",
+    "ID": 178,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "DemocraticRepublicoftheCongo",
+    "ID": 180,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "CookIslands",
+    "ID": 184,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "CostaRica",
+    "ID": 188,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Croatia",
+    "ID": 191,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Cuba",
+    "ID": 192,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Cyprus",
+    "ID": 196,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Czechia",
+    "ID": 203,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Benin",
+    "ID": 204,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Denmark",
+    "ID": 208,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Dominica",
+    "ID": 212,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "DominicanRepublic",
+    "ID": 214,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Ecuador",
+    "ID": 218,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "ElSalvador",
+    "ID": 222,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "EquatorialGuinea",
+    "ID": 226,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Ethiopia",
+    "ID": 231,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Eritrea",
+    "ID": 232,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Estonia",
+    "ID": 233,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "FaroeIslands",
+    "ID": 234,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "FalklandIslands",
+    "ID": 238,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SouthGeorgiaandtheSouthSandwichIslands",
+    "ID": 239,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Fiji",
+    "ID": 242,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Finland",
+    "ID": 246,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "AlandIslands",
+    "ID": 248,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "France",
+    "ID": 250,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "FrenchGuiana",
+    "ID": 254,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "FrenchPolynesia",
+    "ID": 258,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "FrenchSouthernTerritories",
+    "ID": 260,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Djibouti",
+    "ID": 262,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Gabon",
+    "ID": 266,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Georgia",
+    "ID": 268,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Gambia",
+    "ID": 270,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "PalestineStateof",
+    "ID": 275,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Germany",
+    "ID": 276,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Ghana",
+    "ID": 288,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Gibraltar",
+    "ID": 292,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Kiribati",
+    "ID": 296,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Greece",
+    "ID": 300,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Greenland",
+    "ID": 304,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Grenada",
+    "ID": 308,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Guadeloupe",
+    "ID": 312,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Guam",
+    "ID": 316,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Guatemala",
+    "ID": 320,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Guinea",
+    "ID": 324,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Guyana",
+    "ID": 328,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Haiti",
+    "ID": 332,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "HeardIslandandMcDonaldIslands",
+    "ID": 334,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "HolySee",
+    "ID": 336,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Honduras",
+    "ID": 340,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "HongKong",
+    "ID": 344,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Hungary",
+    "ID": 348,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Iceland",
+    "ID": 352,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "India",
+    "ID": 356,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Indonesia",
+    "ID": 360,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Iran",
+    "ID": 364,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Iraq",
+    "ID": 368,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Ireland",
+    "ID": 372,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Israel",
+    "ID": 376,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Italy",
+    "ID": 380,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "IvoryCoast",
+    "ID": 384,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Jamaica",
+    "ID": 388,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Japan",
+    "ID": 392,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Kazakhstan",
+    "ID": 398,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Jordan",
+    "ID": 400,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Kenya",
+    "ID": 404,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "NorthKorea",
+    "ID": 408,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Korea",
+    "ID": 410,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Kuwait",
+    "ID": 414,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Kyrgyzstan",
+    "ID": 417,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Laos",
+    "ID": 418,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Lebanon",
+    "ID": 422,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Lesotho",
+    "ID": 426,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Latvia",
+    "ID": 428,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Liberia",
+    "ID": 430,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Libya",
+    "ID": 434,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Liechtenstein",
+    "ID": 438,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Lithuania",
+    "ID": 440,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Luxembourg",
+    "ID": 442,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Macao",
+    "ID": 446,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Madagascar",
+    "ID": 450,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Malawi",
+    "ID": 454,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Malaysia",
+    "ID": 458,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Maldives",
+    "ID": 462,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mali",
+    "ID": 466,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Malta",
+    "ID": 470,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Martinique",
+    "ID": 474,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mauritania",
+    "ID": 478,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mauritius",
+    "ID": 480,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mexico",
+    "ID": 484,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Monaco",
+    "ID": 492,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mongolia",
+    "ID": 496,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Moldova",
+    "ID": 498,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Montenegro",
+    "ID": 499,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Montserrat",
+    "ID": 500,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Morocco",
+    "ID": 504,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Mozambique",
+    "ID": 508,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Oman",
+    "ID": 512,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Namibia",
+    "ID": 516,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Nauru",
+    "ID": 520,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Nepal",
+    "ID": 524,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Netherlands",
+    "ID": 528,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Curacao",
+    "ID": 531,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Aruba",
+    "ID": 533,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "SintMaarten",
+    "ID": 534,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "BonaireSintEustatiusandSaba",
+    "ID": 535,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "NewCaledonia",
+    "ID": 540,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Vanuatu",
+    "ID": 548,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "NewZealand",
+    "ID": 554,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Nicaragua",
+    "ID": 558,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Niger",
+    "ID": 562,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Nigeria",
+    "ID": 566,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Niue",
+    "ID": 570,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "NorfolkIsland",
+    "ID": 574,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Norway",
+    "ID": 578,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "NorthernMarianaIslands",
+    "ID": 580,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "UnitedStatesMinorOutlyingIslands",
+    "ID": 581,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Micronesia",
+    "ID": 583,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "MarshallIslands",
+    "ID": 584,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Palau",
+    "ID": 585,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Pakistan",
+    "ID": 586,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Panama",
+    "ID": 591,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "PapuaNewGuinea",
+    "ID": 598,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Paraguay",
+    "ID": 600,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Peru",
+    "ID": 604,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Philippines",
+    "ID": 608,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Pitcairn",
+    "ID": 612,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Poland",
+    "ID": 616,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Portugal",
+    "ID": 620,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "GuineaBissau",
+    "ID": 624,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "TimorLeste",
+    "ID": 626,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "PuertoRico",
+    "ID": 630,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Qatar",
+    "ID": 634,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Reunion",
+    "ID": 638,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Romania",
+    "ID": 642,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Russia",
+    "ID": 643,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Rwanda",
+    "ID": 646,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "StBarts",
+    "ID": 652,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaintHelenaAscensionandTristandaCunha",
+    "ID": 654,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaintKittsandNevis",
+    "ID": 659,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Anguilla",
+    "ID": 660,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "SaintLucia",
+    "ID": 662,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "SaintMartin",
+    "ID": 663,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaintPierreandMiquelon",
+    "ID": 666,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaintVincentandtheGrenadines",
+    "ID": 670,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "SanMarino",
+    "ID": 674,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaoTomeandPrincipe",
+    "ID": 678,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SaudiArabia",
+    "ID": 682,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Senegal",
+    "ID": 686,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Serbia",
+    "ID": 688,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Seychelles",
+    "ID": 690,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SierraLeone",
+    "ID": 694,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Singapore",
+    "ID": 702,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Slovakia",
+    "ID": 703,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "VietNam",
+    "ID": 704,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Slovenia",
+    "ID": 705,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Somalia",
+    "ID": 706,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SouthAfrica",
+    "ID": 710,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Zimbabwe",
+    "ID": 716,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Spain",
+    "ID": 724,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SouthSudan",
+    "ID": 728,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Sudan",
+    "ID": 729,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "WesternSahara",
+    "ID": 732,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Suriname",
+    "ID": 740,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "SvalbardandJanMayen",
+    "ID": 744,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Swaziland",
+    "ID": 748,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Sweden",
+    "ID": 752,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Switzerland",
+    "ID": 756,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "SyrianArabRepublic",
+    "ID": 760,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Tajikistan",
+    "ID": 762,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Thailand",
+    "ID": 764,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Togo",
+    "ID": 768,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Tokelau",
+    "ID": 772,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Tonga",
+    "ID": 776,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "TrinidadandTobago",
+    "ID": 780,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "UnitedArabEmirates",
+    "ID": 784,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Tunisia",
+    "ID": 788,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Turkey",
+    "ID": 792,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Turkmenistan",
+    "ID": 795,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "TurksandCaicosIslands",
+    "ID": 796,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Tuvalu",
+    "ID": 798,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Uganda",
+    "ID": 800,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Ukraine",
+    "ID": 804,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Macedonia",
+    "ID": 807,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Egypt",
+    "ID": 818,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "UnitedKingdomofGreatBritainandNorthernIreland",
+    "ID": 826,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Guernsey",
+    "ID": 831,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Jersey",
+    "ID": 832,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "IsleofMan",
+    "ID": 833,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Tanzania",
+    "ID": 834,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "UnitedStatesofAmerica",
+    "ID": 840,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "UnitedStatesVirginIslands",
+    "ID": 850,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "BurkinaFaso",
+    "ID": 854,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Uruguay",
+    "ID": 858,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "Uzbekistan",
+    "ID": 860,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Venezuela",
+    "ID": 862,
+    "RegionType": 2
+  },
+  {
+    "CountryName": "WallisandFutuna",
+    "ID": 876,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Samoa",
+    "ID": 882,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Yemen",
+    "ID": 887,
+    "RegionType": 1
+  },
+  {
+    "CountryName": "Zambia",
+    "ID": 894,
+    "RegionType": 1
+  }
+]

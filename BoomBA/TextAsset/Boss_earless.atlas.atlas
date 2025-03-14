@@ -1,0 +1,188 @@
+
+Boss_earless.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_back
+  rotate: true
+  xy: 267, 110
+  size: 144, 209
+  orig: 144, 209
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 478, 110
+  size: 144, 163
+  orig: 144, 163
+  offset: 0, 0
+  index: -1
+body_side
+  rotate: false
+  xy: 2, 89
+  size: 263, 165
+  orig: 263, 165
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 643, 96
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: false
+  xy: 643, 152
+  size: 66, 102
+  orig: 66, 102
+  offset: 0, 0
+  index: -1
+ef2
+  rotate: false
+  xy: 711, 206
+  size: 112, 48
+  orig: 112, 48
+  offset: 0, 0
+  index: -1
+ef3
+  rotate: false
+  xy: 708, 97
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+ef4
+  rotate: true
+  xy: 2, 5
+  size: 41, 121
+  orig: 41, 121
+  offset: 0, 0
+  index: -1
+ef5
+  rotate: true
+  xy: 125, 15
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+ef6
+  rotate: false
+  xy: 711, 136
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+ef7
+  rotate: true
+  xy: 186, 36
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+ef8
+  rotate: true
+  xy: 182, 2
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+eye1_close
+  rotate: false
+  xy: 711, 169
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+eye1_open
+  rotate: false
+  xy: 825, 219
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+eye2_close
+  rotate: true
+  xy: 222, 3
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+eye2_open
+  rotate: true
+  xy: 403, 77
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+eye3_open
+  rotate: false
+  xy: 370, 78
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+eye4_open
+  rotate: false
+  xy: 267, 78
+  size: 101, 30
+  orig: 101, 30
+  offset: 0, 0
+  index: -1
+hand_front
+  rotate: false
+  xy: 261, 28
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+hand_side
+  rotate: true
+  xy: 324, 21
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+ma
+  rotate: false
+  xy: 768, 130
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+mieng
+  rotate: false
+  xy: 927, 229
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+mui
+  rotate: false
+  xy: 373, 58
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+mui2
+  rotate: true
+  xy: 125, 2
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+rau
+  rotate: false
+  xy: 825, 214
+  size: 45, 3
+  orig: 45, 3
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 48
+  size: 182, 39
+  orig: 182, 39
+  offset: 0, 0
+  index: -1

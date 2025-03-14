@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PetSkill/Chicken/1
+  rotate: false
+  xy: 821, 71
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/2
+  rotate: false
+  xy: 875, 71
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/3
+  rotate: false
+  xy: 928, 71
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/4
+  rotate: true
+  xy: 56, 2
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/a
+  rotate: false
+  xy: 981, 71
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/b
+  rotate: true
+  xy: 110, 22
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/break
+  rotate: false
+  xy: 764, 68
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/duoi
+  rotate: false
+  xy: 2, 31
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+PetSkill/Chicken/rac
+  rotate: false
+  xy: 2, 7
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_0
+  rotate: false
+  xy: 56, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_10
+  rotate: false
+  xy: 292, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_11
+  rotate: false
+  xy: 351, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_12
+  rotate: false
+  xy: 410, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_13
+  rotate: false
+  xy: 469, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_14
+  rotate: false
+  xy: 528, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_15
+  rotate: false
+  xy: 587, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_16
+  rotate: false
+  xy: 646, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_17
+  rotate: false
+  xy: 705, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_7
+  rotate: false
+  xy: 115, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_8
+  rotate: false
+  xy: 174, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+summons/open_chest_special/2430071_9
+  rotate: false
+  xy: 233, 55
+  size: 57, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Boom01.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 404, 88
+  size: 106, 31
+  orig: 106, 31
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 121, 2
+  size: 112, 31
+  orig: 112, 31
+  offset: 0, 0
+  index: -1
+boom00
+  rotate: false
+  xy: 332, 45
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 2, 2
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+toe1
+  rotate: false
+  xy: 2, 35
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1
+toe2
+  rotate: false
+  xy: 112, 35
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1
+toe3
+  rotate: false
+  xy: 222, 35
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1

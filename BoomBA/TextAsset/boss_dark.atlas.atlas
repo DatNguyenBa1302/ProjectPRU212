@@ -1,0 +1,104 @@
+
+boss_dark.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body1
+  rotate: false
+  xy: 115, 24
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 2, 23
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 115, 2
+  size: 80, 20
+  orig: 80, 20
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 197, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+feet
+  rotate: false
+  xy: 277, 26
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+feet2
+  rotate: false
+  xy: 449, 60
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 331, 78
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 226, 9
+  size: 37, 49
+  orig: 37, 49
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 331, 41
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 470, 77
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 411, 78
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 391, 35
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+wing2a
+  rotate: true
+  xy: 226, 48
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1

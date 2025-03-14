@@ -1,0 +1,97 @@
+
+Invis.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_A01
+  rotate: false
+  xy: 2, 3
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+idle_A02
+  rotate: false
+  xy: 75, 3
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+idle_A03
+  rotate: false
+  xy: 148, 3
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+idle_B01
+  rotate: false
+  xy: 444, 2
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+idle_B02
+  rotate: false
+  xy: 514, 2
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+idle_B03
+  rotate: false
+  xy: 584, 2
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+run_A01
+  rotate: false
+  xy: 294, 6
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+run_A02
+  rotate: false
+  xy: 221, 3
+  size: 71, 103
+  orig: 71, 103
+  offset: 0, 0
+  index: -1
+run_A03
+  rotate: false
+  xy: 369, 6
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+run_B01
+  rotate: false
+  xy: 724, 4
+  size: 69, 102
+  orig: 69, 102
+  offset: 0, 0
+  index: -1
+run_B02
+  rotate: false
+  xy: 654, 2
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1
+run_B03
+  rotate: false
+  xy: 795, 4
+  size: 68, 102
+  orig: 68, 102
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 865, 65
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+water/1
+  rotate: false
+  xy: 824, 65
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+water/2
+  rotate: false
+  xy: 761, 46
+  size: 61, 72
+  orig: 61, 72
+  offset: 0, 0
+  index: -1
+water/3
+  rotate: false
+  xy: 695, 41
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+water/4
+  rotate: false
+  xy: 627, 39
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+water/5
+  rotate: false
+  xy: 487, 38
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+water/6
+  rotate: false
+  xy: 558, 38
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+water/a
+  rotate: true
+  xy: 367, 20
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+water/b
+  rotate: false
+  xy: 253, 12
+  size: 112, 106
+  orig: 112, 106
+  offset: 0, 0
+  index: -1
+water/c
+  rotate: false
+  xy: 129, 10
+  size: 122, 108
+  orig: 122, 108
+  offset: 0, 0
+  index: -1
+water/d
+  rotate: false
+  xy: 2, 2
+  size: 125, 116
+  orig: 125, 116
+  offset: 0, 0
+  index: -1
+water/flow1
+  rotate: false
+  xy: 889, 63
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+water/flow2
+  rotate: false
+  xy: 946, 63
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1

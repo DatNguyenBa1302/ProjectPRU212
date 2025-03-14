@@ -1,0 +1,155 @@
+KEY,English,Tiếng Việt
+Flag,US,VN
+Language,English,Tiếng Việt
+BuyCandy,Buy Candy,N¹p KÑo
+CreateCharacter,Create Character,T¹o Nh©n VËt
+CharacterName,*Username:,*Tªn nh©n vËt:
+SelectCharacter,Select Character,Chän Nh©n VËt
+Bombs,Bombs,Sè bom
+Length,Length,§é dµi
+Speed,Speed,Tèc §é
+TouchToInput,Touch to input...,Chạm vào để nhập...
+Bazzi,Bazzi,Khß Khß
+Dao,Dao,Tia Chãp
+Luxmadrid,Luxmadrid,M¾t BiÕc
+Cappy,Cappy,TÝ B¶nh
+SelectMode,Select Mode,Chän kiÓu ch¬i
+Missions,Missions,KiÓu NhiÖm vô
+HuntingBoss,Hunting boss,S¨n boss
+Square,Time Square,Qu¶ng tr­êng
+Arena,Arena,§ÊU TR¦êNG
+WorldWar,World War,®¹i chiÕn
+SelectServer,Select server you want to play,Chän server b¹n muèn vµo
+Settings,Settings,Tïy ChØnh
+Music,Music,Nh¹c nÒn
+Sound,Sound,¢m thanh
+AutoSaved,Auto Saved,L­u tù ®éng
+Notification,Notification,Th«ng b¸o
+Joystick,Joystick,Joystick
+Vibration,Vibration,Rung
+Default,Default,MÆc ®Þnh
+FourWay,4 Ways,4 H­íng
+CandyShop,Candy Shop,QuÇy kÑo
+Card,Card,ThÎ cµo
+1000,1.000,"1,000"
+5000,5.000,"5,000"
+10000,10.000,"10,000"
+15000,15.000,"15,000"
+>15000,>15.000,>"15,000"
+currency,$,®
+SMS,SMS,SMS
+Tips,Tips:,MÑo:
+Detail...,Detail...,Chi tiÕt...
+BuyCandyWithCard,Buy candy with card,Mua kÑo b»ng ThÎ cµo sÏ cã lîi h¬n mua kÑo b»ng SMS. Mçi ngµy chØ ®­îc n¹p tèi ®a 100.000 VN§.
+MethodBuy,Method,C¸ch mua:
+BuyCandy1,Buy,Mua kÑo
+Cancel,Cancel,Th«i
+ConvertCoins,Convert Coins,§æi xu
+Gift,Gift,Quµ tÆng
+All,All,TÊt c¶
+Equip,Equip,Trang bÞ
+Tool,Tool,§¹o cô
+Price,Price:,Gi¸:
+Buy,Buy,Mua
+Candy,candy,kÑo
+Coin,coin,xu
+Coin+,coin+,xu+
+Expire,Expire:,Thêi h¹n:,
+None, none, kh«ng
+Guide,Guide,H­íng DÉn
+HowToPlay,How to play,C¸ch ch¬i
+TargetNumber,Target number,Sè môc tiªu cÇn tiªu diÖt
+Movement,Movement,§iÒu khiÓn nh©n vËt
+PauseGame,Pause game,T¹m dõng
+LifeNumber,Life number,Sè m¹ng
+Escape,Escape,Gi¶i tho¸t
+SetBubble,Set bubble,§Æt bom
+Tools,Tools,VËt phÈm
+LeaderBoard,Leader Board,B¶ng xÕp h¹ng
+Top,Top,Top
+Level,Level,CÊp\n®é
+Level2,Level,CÊp ®é
+Mission,Mission,NhiÖm\nvô
+Mission2,Mission,NhiÖm vô
+Vip,Vip,§¹i\ngia
+Rank,Rank,H¹ng
+UserName,Username,Tªn nh©n vËt,
+Connecting...,CONNECTING..., ĐANG KẾT NỐI…
+MagicCard,Card,ThÎ bµi
+NumberWantBuy,Number of item need to be bought,Chän sè l­îng cÇn b¸n
+Set,Set,Sö dông
+Sell,Sell,B¸n shop
+Information,Information,Th«ng tin
+CollectLetters,Collect letters,S­u tËp chø
+BreakEggs,Break eggs,§Ëp trøng
+Achievement,Achievement,Huy hiÖu
+Ability,Ability,Kh¶
+Potential,Potential,TiÒm
+NumberMission,Missions,Sè nhiÖm vô
+NumberBoss,Boss,Sè boss
+Retry,Retry,Thö l¹i
+Yes,Yes,Cã
+No,No,Kh«ng
+Bag,Bag,Tói ®å
+Shop,Shop,Cöa hµng
+Map,Map,B¶n ®å
+Close,Close,§ãng
+Result,Result,KÕt qu¶
+Relay,Relay,Ch¬i l¹i
+AskingExit,Do you want to quit?,B¹n thùc sù muèn tho¸t khái øng dông?
+Update,Update,CËp nhËt
+ChangeName,"You have to change your name before charging cards.Please log out and then log in again to enter your name!","B¹n ph¶i ®æi tªn tr­íc khi n¹p thÎ, vui lßng tho¸t khái game sau ®ã vµo l¹i ®Ó nhËp tªn!"
+WrongFormatCode,"Please put in the correct serial number and card number.","Vui lßng nhËp ®óng th«ng tin sè seri vµ sè thÎ trªn thÎ cµo."
+CandyName,Candy,KÑo
+Candy1Feature,"Creat message “STM BOOM {0}” to 7595.\nThe number of candies have been received: 1,000 candies.","So¹n tin nh¾n “STM BOOM {0}” göi 7595.\nSè kÑo sÏ nhËn ®­îc: 1,000 kÑo."
+Candy2Feature,"Creat message “STM BOOM {0}” to 7695.\nThe number of candies have been received: 3,000 candies.","So¹n tin nh¾n “STM BOOM {0}” göi 7695.\nSè kÑo sÏ nhËn ®­îc: 3,000 kÑo."
+Candy3Feature,"Creat message “STM BOOM {0}” to 7795.\nThe number of candies have been received: 5,000 candies.","So¹n tin nh¾n “STM BOOM {0}” göi 7795.\nSè kÑo sÏ nhËn ®­îc: 5,000 kÑo."
+Candy4Feature,"Choose the network and enter the serial number and card number,then you will receive the correlative number of candies below:","Chän nhµ m¹ng sau ®ã nhËp sè seri vµ sè thÎ b¹n sÏ nhËn ®­îc sè kÑo t­¬ng øng nh­ sau:"
+CandyDesc,"After receiving the response from the switchboard, Please start the game to receive the candy.","Sau khi nhËn ®­îc tin nh¾n ph¶n håi tõ tæng ®µi b¹n ph¶i më l¹i game ®Ó nhËn KÑo."
+Performing,Loading...,§ang thùc hiÖn...
+CannotConnect,"Server disconnected, Please try again.","Kh«ng thÓ kÕt nèi víi server, vui lßng thö l¹i sau."
+NoSuccess,Unsuccessful,Kh«ng thµnh c«ng
+CardInfo,"Card 10k -> 5k candies  |  20k -> 11k candies\ncard 50k -> 30k candies |  100k -> 65k candies ncard 200k->140k candies |  500k->500k candies\n","ThÎ 10k -> 5k kÑo  |  20k -> 11k kÑo\nThÎ 50k -> 30k kÑo |  100k -> 65k kÑo\nThÎ 200k->140k kÑo |  500k->500k kÑo\n"
+AlertLockCharacter,"Your character are locked, wiil be unlocked in the next version.","Nh©n vËt b¹n chän hiÖn t¹i ®ang bÞ khãa, sÏ ®­îc më khãa ë phiªn b¶n kÕ tiÕp."
+UsernameTooShort,"The character name is no more than 5 letters.","Tªn nh©n vËt ph¶i dµi h¬n 5 ký tù."
+Checking,Checking...,§ang kiÓm tra...
+Loading,Loading...,§ang t¶i...
+Connecting,Connecting...,§ang kÕt nèi...
+Noconnection,"Without the internet connection, Please check up Wifi/3G.","Kh«ng cã kÕt nèi internet, vui lßng kiÓm tra l¹i kÕt nèi Wifi/3G."
+UsernameExist,"User name is being used, Please enter another name.","Tªn nh©n vËt nµy cã ng­êi sö dông råi, vui lßng nhËp tªn kh¸c."
+UsernameInvalid,"Invalid character name, Please enter another name.","Tªn nh©n vËt nµy kh«ng hîp lÖ, vui lßng nhËp tªn kh¸c."
+HaveError,"An error has been made during the process, Please try again.","Cã lçi x¶y ra trong qu¸ tr×nh t¹o xö lý, vui lßng thö l¹i sau."
+UnSupportMode,"Playing mode will appear in the next version.","ChÕ ®é ch¬i nµy sÏ xuÊt hiÖn ë phiªn b¶n kÕ tiÕp."
+UnsupportFunction,"This function will appear in the next version.","Chøc n¨ng nµy sÏ xuÊt hiÖn ë phiªn b¶n kÕ tiÕp."
+MapIsLocking,"You need to unlock the screen,or play in oder.","B¹n h·y h¹ boss cña mµn nµy tr­íc khi qua mµn kÕ tiÕp."
+NextWorld,"Let’s discover the world’s Boom online in next version.","Cïng kh¸m ph¸ thÕ giíi tiÕp theo cña Boom Online ë phiªn b¶n tiÕp theo."
+Congratulation,Congratulation,Chóc mõng
+Use,Use,Sö dông
+Catch,Catch,Thu phục
+Remove,Remove,Gì ra
+NotEnough,"You don't have money to buy this item!","B¹n kh«ng ®ñ tiÒn ®Ó mua vËt phÈm nµy!"
+HadItem,"You’ve got the equipment, Please purchase other equipment.","B¹n ®· cã trang bÞ nµy råi, h·y mua thªm trang bÞ kh¸c nhÐ."
+FinalPetSell,"You can't sell your last Pokemon.","B¹n kh«ng thÓ b¸n pokemon cuèi cïng cña b¹n."
+QuestionUpdate,"New version Boom online, do you want to update?","Boom Online cã phiªn b¶n míi, b¹n cã muèn cËp nhËt kh«ng?"
+Bonus,Bonus coins,Th­ëng tiÒn
+BonusCoin,BonusCoin,Th­ëng xu
+AlertBonus,You’ve received,B¹n võa nhËn ®­îc
+SmsTopUp,SMS Top Up,N¹p SMS
+CardTopUp,Card Top Up,N¹p thÎ
+AlertFirstLogin,"You get 200 coins for the first play of the day.","BËn nhËn ®­îc 200 xu cho lÇn ch¬I game ®Çu tiªn trong ngµy."
+AlertSignUp,"You need log in character name to join in arena and rank table.","B¹n cÇn nhËp tªn nh©n vËt ®Ó th¨m gia ®Êu tr­êng vµ b¶ng xÕp h¹ng."
+AlertConnectFail,"The connection is failure, do you want to try again?","KÕt nèi thÊt b¹i, b¹n cã muèn thö l¹i kh«ng?"
+Disconnect,"Transmission line disconnect,do you want to try again?","§­êng truyÒn kh«ng æn ®Þnh, b¹n cã muèn kÕt nèi l¹i kh«ng?"
+MaintainSquare,"The Square is under maintenance, please come back later.","Qu¶ng tr­êng ®ang b¶o tr×, b¹n vui lßng trë l¹i sau."
+UnknowError,"Error, Please contact with admin","Lçi, vui lßng liªn hÖ admin."
+SquareWarningNoMap," is maintenancing, coming soon in the next version!"," ®ang ®­îc x©y dùng, h·y ®ãn t¶i phiªn b¶n kÕ tiÕp!"
+AskingExitSquare,"Do you want to get back main menu?","B¹n cã thùc sù muèn trë vÒ menu chÝnh kh«ng?"
+AskingGoToHome,"Do you want to get back Time Square?","B¹n cã muèn trë vÒ Qu¶ng Tr­êng Thêi §¹i kh«ng?"
+TipData,"You can change how to control character by going to option and chosing the most approriate cotrolling pattern to you.|”Clothes”/”accessories” will make you remarkable in the crowd at the square.|Frequently check the fanpage facebook.com/stgamevn to join in ST GAME's prize giving events.|Enter stgame.vn to know more about other games released by ST GAME".|Without the internet connection, You can join in the functions in the Square alone."|New function : Mysterious Maze.|New function: Fishing.|New function: Ghost forest.|New function: Pets.|New function: Wedding.","Bạn có thể thay đổi cách điều khiển nhân vật bằng vào tùy chỉnh và chọn kiểu điều khiển phù hợp nhất với bạn.|Các “trang phục”/”phụ kiện” sẽ làm nổi bật bạn tại Quảng Trường trước đám đông.|Hãy thường xuyên check fanpage facebook.com/stgamevn để tham gia đầy đủ sự kiện tặng quà của STGAME.|Vào stgame.vn để tìm hiểu thêm các game khác do STGAME phát hành"|Nếu không thể kết nối mạng, bạn vẫn có thể tham gia các chức năng trong Quảng Trường một cách đơn độc.|Chức năng sắp ra mắt: Mê Cung Huyền Bí.|Chức năng sắp ra mắt: Câu Cá Ăn Xu.|Chức năng sắp ra mắt: Khu Rừng Ma Quái.|Chức năng sắp ra mắt: Nuôi Thú Cưng.|Chức năng sắp ra mắt: Kết Hôn."
+NameMapData,"Time Square|Mysterious Maze|Parkson|Ghost Forest|Pirate King|Relaxation Coffee|Pokemon Park|Wedding cathedral|Frozen Area|Stolen Land","Qu¶ng Tr­êng Thêi §¹i|Mª Cung HuyÒn BÝ|Parkson|Khu R­ng CÊm|Vua H¶i TÆc|Cafe Th­ Gi¶n|C«ng Viªn Pokemon|Th¸nh §­êng Thµnh H«n|Khu Vùc Frozen|Vïng §Êt BÞ §¸nh CÊp"
+WishMapCompleteData,"You have just conquered the Pirate map, click on next to move on to the press Ngao Sơ-ri village.|You have just conquered the Ngao Sơ-ri village, click on “Yes” to conquered again or “No” and wait for the next map in the next version.|You have just conquered the Pirate map, click Yes to play again or No to wait for the next map in the next version.","B¹n võa chinh phôc ®­îc b¶n ®å H¶i TÆc, nhÊn Cã ®Ó qua b¶n ®å bu«n Lµng Ngao S¬-ri.|B¹n võa chinh phôc ®­îc b¶n ®å Bu«n Lµng Ngao S¬-ri, nhÊn Cã ®Ó qua b¶n ®å Khu Rõng Ma Qu¸i.|B¹n võa chinh phôc ®­îc b¶n ®å Khu Rõng Ma Qu¸i, nhÊn Cã ®Ó qua b¶n ®å ChiÕn Binh Mïa §«ng.|B¹n võa chinh phôc ®­îc b¶n ®å ChiÕn Binh Mïa §«ng, nhÊn nót “Cã” ®Ó chÝnh phôc l¹i hoÆc Kh«ng” ®îi b¶n ®å tiÕp theo ë phiªn b¶n sau."
+
+
+KillingPet,Catching Pokemon,Đang Thu Phục Pokemon
+KillingPetfailt,Battle Fail,Thu phuc that bai
+KillingPetfailc,You must win this math to catch this pokemon,Ban can phai chien thang moi co the thu phuc duoc pokemon nay

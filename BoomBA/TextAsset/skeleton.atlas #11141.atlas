@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hoatdong
+  rotate: true
+  xy: 728, 2
+  size: 361, 275
+  orig: 361, 275
+  offset: 0, 0
+  index: -1
+hoatdong0
+  rotate: false
+  xy: 365, 88
+  size: 361, 275
+  orig: 361, 275
+  offset: 0, 0
+  index: -1
+hoatdong0uo
+  rotate: false
+  xy: 2, 88
+  size: 361, 275
+  orig: 361, 275
+  offset: 0, 0
+  index: -1

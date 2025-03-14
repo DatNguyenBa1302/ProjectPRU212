@@ -1,0 +1,160 @@
+
+SkillPet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PetSkill/Penguin/0
+  rotate: false
+  xy: 2, 776
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/1
+  rotate: false
+  xy: 2, 574
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/2
+  rotate: false
+  xy: 204, 776
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/3
+  rotate: false
+  xy: 2, 372
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/4
+  rotate: false
+  xy: 204, 574
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/a
+  rotate: false
+  xy: 406, 776
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/b
+  rotate: false
+  xy: 2, 170
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/li
+  rotate: false
+  xy: 853, 537
+  size: 125, 126
+  orig: 125, 126
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/x1
+  rotate: false
+  xy: 859, 665
+  size: 128, 143
+  orig: 128, 143
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/x2
+  rotate: false
+  xy: 368, 85
+  size: 145, 151
+  orig: 145, 151
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/x3
+  rotate: false
+  xy: 570, 627
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/x4
+  rotate: false
+  xy: 713, 668
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+PetSkill/Penguin/x5
+  rotate: true
+  xy: 713, 521
+  size: 145, 138
+  orig: 145, 138
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_0
+  rotate: false
+  xy: 204, 406
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_1
+  rotate: false
+  xy: 406, 608
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_2
+  rotate: false
+  xy: 608, 810
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_3
+  rotate: false
+  xy: 2, 2
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_4
+  rotate: false
+  xy: 204, 238
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_5
+  rotate: false
+  xy: 772, 810
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_6
+  rotate: false
+  xy: 204, 70
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_7
+  rotate: false
+  xy: 368, 406
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_8
+  rotate: false
+  xy: 368, 238
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1

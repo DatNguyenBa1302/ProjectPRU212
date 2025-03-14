@@ -1,0 +1,76 @@
+
+Pet.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Unicorn/eneg2
+  rotate: false
+  xy: 2, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Unicorn/fr1
+  rotate: true
+  xy: 428, 59
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+Unicorn/fr2
+  rotate: false
+  xy: 75, 34
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+Unicorn/fr3
+  rotate: false
+  xy: 215, 37
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+Unicorn/fr4
+  rotate: false
+  xy: 145, 37
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+Unicorn/fr5
+  rotate: false
+  xy: 2, 34
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+Unicorn/fr6
+  rotate: false
+  xy: 284, 40
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+Unicorn/fr7
+  rotate: true
+  xy: 515, 55
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+Unicorn/fr8
+  rotate: false
+  xy: 356, 43
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Unicorn/fr9
+  rotate: true
+  xy: 597, 55
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1

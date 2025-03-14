@@ -1,0 +1,160 @@
+
+SkillPet.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+summons/amor_buff/0_0
+  rotate: false
+  xy: 2, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_1
+  rotate: false
+  xy: 2, 170
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_2
+  rotate: false
+  xy: 166, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_3
+  rotate: false
+  xy: 2, 2
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_4
+  rotate: false
+  xy: 166, 170
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_5
+  rotate: false
+  xy: 330, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_6
+  rotate: false
+  xy: 166, 2
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_7
+  rotate: false
+  xy: 330, 170
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_8
+  rotate: false
+  xy: 494, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_9
+  rotate: false
+  xy: 330, 2
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_0
+  rotate: false
+  xy: 494, 230
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_1
+  rotate: false
+  xy: 658, 398
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_10
+  rotate: false
+  xy: 700, 182
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_11
+  rotate: false
+  xy: 803, 290
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_2
+  rotate: false
+  xy: 494, 122
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_3
+  rotate: false
+  xy: 761, 398
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_4
+  rotate: false
+  xy: 494, 14
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_5
+  rotate: false
+  xy: 864, 398
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_6
+  rotate: false
+  xy: 597, 230
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_7
+  rotate: false
+  xy: 597, 122
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_8
+  rotate: false
+  xy: 597, 14
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_9
+  rotate: false
+  xy: 700, 290
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1

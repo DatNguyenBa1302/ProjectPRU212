@@ -1,0 +1,286 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PetSkill/Turtle/Layer-37-copy-2
+  rotate: false
+  xy: 2, 832
+  size: 200, 176
+  orig: 200, 176
+  offset: 0, 0
+  index: -1
+PetSkill/Turtle/Layer-37-copy-2a
+  rotate: false
+  xy: 2, 654
+  size: 200, 176
+  orig: 200, 176
+  offset: 0, 0
+  index: -1
+PetSkill/Turtle/hoa
+  rotate: true
+  xy: 413, 118
+  size: 100, 127
+  orig: 100, 127
+  offset: 0, 0
+  index: -1
+PetSkill/Turtle/kinh
+  rotate: false
+  xy: 204, 832
+  size: 200, 176
+  orig: 200, 176
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_0
+  rotate: false
+  xy: 2, 486
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_1
+  rotate: false
+  xy: 204, 664
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_2
+  rotate: false
+  xy: 406, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_3
+  rotate: false
+  xy: 2, 318
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_4
+  rotate: false
+  xy: 570, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_5
+  rotate: false
+  xy: 2, 150
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_6
+  rotate: false
+  xy: 734, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_7
+  rotate: false
+  xy: 368, 664
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_8
+  rotate: false
+  xy: 532, 674
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_9
+  rotate: false
+  xy: 696, 674
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_0
+  rotate: false
+  xy: 2, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_1
+  rotate: false
+  xy: 898, 862
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_10
+  rotate: false
+  xy: 364, 368
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_11
+  rotate: false
+  xy: 364, 220
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_12
+  rotate: false
+  xy: 463, 516
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_13
+  rotate: false
+  xy: 463, 368
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_14
+  rotate: false
+  xy: 463, 220
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_15
+  rotate: false
+  xy: 562, 526
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_16
+  rotate: false
+  xy: 562, 378
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_17
+  rotate: false
+  xy: 661, 526
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_18
+  rotate: false
+  xy: 562, 230
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_19
+  rotate: false
+  xy: 661, 378
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_2
+  rotate: false
+  xy: 101, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_20
+  rotate: false
+  xy: 760, 526
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_21
+  rotate: false
+  xy: 661, 230
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_22
+  rotate: false
+  xy: 760, 378
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_23
+  rotate: false
+  xy: 760, 230
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_24
+  rotate: false
+  xy: 860, 694
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_25
+  rotate: true
+  xy: 265, 121
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_3
+  rotate: false
+  xy: 166, 506
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_4
+  rotate: false
+  xy: 166, 358
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_5
+  rotate: false
+  xy: 166, 210
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_6
+  rotate: false
+  xy: 265, 516
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_7
+  rotate: false
+  xy: 265, 368
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_8
+  rotate: false
+  xy: 364, 516
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_9
+  rotate: false
+  xy: 265, 220
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1

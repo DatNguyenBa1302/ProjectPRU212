@@ -1,0 +1,90 @@
+
+01_dinosaur.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+death_eye
+  rotate: false
+  xy: 345, 37
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+death_eye2
+  rotate: false
+  xy: 302, 24
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+down
+  rotate: true
+  xy: 80, 4
+  size: 57, 74
+  orig: 57, 74
+  offset: 0, 0
+  index: -1
+handfont
+  rotate: false
+  xy: 288, 23
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+handside
+  rotate: false
+  xy: 390, 46
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 269, 14
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 224, 12
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+right
+  rotate: true
+  xy: 2, 2
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 302, 34
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 224, 41
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 371, 45
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+top
+  rotate: true
+  xy: 156, 5
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1

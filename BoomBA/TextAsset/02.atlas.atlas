@@ -1,0 +1,146 @@
+
+02.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodyback
+  rotate: false
+  xy: 2, 3
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+bodyfont
+  rotate: false
+  xy: 66, 3
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+bodyside
+  rotate: false
+  xy: 130, 3
+  size: 62, 57
+  orig: 62, 57
+  offset: 0, 0
+  index: -1
+death_eye
+  rotate: false
+  xy: 449, 36
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+death_eye2
+  rotate: false
+  xy: 267, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+eyefont
+  rotate: false
+  xy: 283, 41
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+eyeside
+  rotate: false
+  xy: 475, 41
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+hairAback
+  rotate: false
+  xy: 194, 33
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+hairAfont
+  rotate: false
+  xy: 194, 4
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+hairAside
+  rotate: false
+  xy: 240, 4
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+hairBback
+  rotate: false
+  xy: 361, 42
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+hairBfont
+  rotate: false
+  xy: 391, 42
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+hairBside
+  rotate: true
+  xy: 475, 21
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 284, 25
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+legfont
+  rotate: true
+  xy: 331, 39
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+legside
+  rotate: true
+  xy: 421, 43
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+mouthfont
+  rotate: false
+  xy: 493, 43
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+mouthside
+  rotate: false
+  xy: 267, 12
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 240, 33
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 493, 25
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1

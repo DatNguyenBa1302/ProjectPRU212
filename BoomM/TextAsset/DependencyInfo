@@ -1,0 +1,29 @@
+{
+  "configurations": {
+    "_bundleName": "configurations",
+    "_parentBundleNames": []
+  },
+  "effects_ingame": {
+    "_bundleName": "effects_ingame",
+    "_parentBundleNames": []
+  },
+  "models_ui": {
+    "_bundleName": "models_ui",
+    "_parentBundleNames": [
+      "effects_ingame",
+      "shader"
+    ]
+  },
+  "shader": {
+    "_bundleName": "shader",
+    "_parentBundleNames": []
+  },
+  "sounds": {
+    "_bundleName": "sounds",
+    "_parentBundleNames": []
+  },
+  "tables": {
+    "_bundleName": "tables",
+    "_parentBundleNames": []
+  }
+}

@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 249
+  size: 182, 219
+  orig: 182, 219
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 28
+  size: 182, 219
+  orig: 182, 219
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 186, 249
+  size: 182, 219
+  orig: 182, 219
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_0
+  rotate: false
+  xy: 186, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_1
+  rotate: false
+  xy: 370, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_10
+  rotate: false
+  xy: 483, 174
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_11
+  rotate: false
+  xy: 582, 174
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_12
+  rotate: false
+  xy: 681, 174
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_2
+  rotate: false
+  xy: 469, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_3
+  rotate: false
+  xy: 568, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_4
+  rotate: false
+  xy: 667, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_5
+  rotate: false
+  xy: 766, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_6
+  rotate: false
+  xy: 865, 322
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_7
+  rotate: false
+  xy: 285, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_8
+  rotate: true
+  xy: 186, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+star_buffing/2022907_9
+  rotate: false
+  xy: 384, 174
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+starlight/42_0
+  rotate: false
+  xy: 780, 234
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_1
+  rotate: false
+  xy: 863, 234
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_2
+  rotate: true
+  xy: 384, 91
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_3
+  rotate: true
+  xy: 472, 91
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_4
+  rotate: true
+  xy: 560, 91
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_5
+  rotate: true
+  xy: 648, 91
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_6
+  rotate: true
+  xy: 780, 151
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+starlight/42_7
+  rotate: false
+  xy: 868, 146
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1

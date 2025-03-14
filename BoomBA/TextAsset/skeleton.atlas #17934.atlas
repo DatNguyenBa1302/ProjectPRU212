@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+earth/1
+  rotate: true
+  xy: 190, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+earth/2
+  rotate: true
+  xy: 80, 72
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+earth/3
+  rotate: true
+  xy: 166, 85
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+earth/4
+  rotate: true
+  xy: 251, 86
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+earth/a
+  rotate: true
+  xy: 247, 49
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+earth/a3
+  rotate: false
+  xy: 2, 53
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+earth/b
+  rotate: false
+  xy: 2, 7
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+earth/c
+  rotate: false
+  xy: 137, 17
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+earth/d
+  rotate: false
+  xy: 333, 70
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+earth/e
+  rotate: true
+  xy: 393, 68
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+earth/f
+  rotate: false
+  xy: 80, 19
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+earth/flow1
+  rotate: false
+  xy: 453, 70
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+earth/flow2
+  rotate: false
+  xy: 190, 28
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+earth/rock
+  rotate: true
+  xy: 166, 72
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1

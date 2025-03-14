@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<style type="text/css">
+		@font-face { font-family: 'webfont0'; src: url('kor_number.TTF'); }
+		.font0 { font-family: 'webfont0';}
+
+		body {
+			text-rendering: optimizeLegibility;
+			margin: 20px 0px;
+			line-height: 1.2em;
+			font-size: 16px;
+			width: 100%;
+		}
+		div {
+			margin-bottom: 3em;
+		}
+		a {
+			text-decoration: none;
+			color: black;
+		}
+		p {
+			width: 98%;
+			display:block;
+			line-height: 1.2em;
+			margin: 0 20px 4px 20px;
+			word-wrap:break-word;
+		}
+		.smcp {
+			-moz-font-feature-settings: "smcp";
+			-ms-font-feature-settings: "smcp";
+			-webkit-font-feature-settings: "smcp" 1;
+			-o-font-feature-settings: "smcp";
+			font-feature-settings: "smcp";
+		}
+		h4 {
+			margin: 0 20px 10px 20px;
+			font-family: 'webfont0';
+		}
+		</style>
+</head>
+<body>
+<h4>Encoded Glyphs</h4>
+	<p class="font0" style='font-size:8px'>8: !&quot;#$%&amp;&apos;()*+,-./0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĆćČčđĞğİıŁłŒœŞşŠšŸŽžƒˆˇ˘˙˚˛˜Ωπ–—‘’‚“”„†‡•…‰‹›₣™∂∆∏∑−∕∙√∞∫≈≠≤≥◊</p>
+	<hr>
+
+</body>
+</html>

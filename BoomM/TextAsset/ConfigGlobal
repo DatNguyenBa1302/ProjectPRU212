@@ -1,0 +1,482 @@
+[
+  {
+    "ID": "User:NicknameLengthMin",
+    "IntValue": 2
+  },
+  {
+    "ID": "User:NicknameLengthMax",
+    "IntValue": 9
+  },
+  {
+    "ID": "Tutorial:MatchingInfoShowingTime",
+    "IntValue": 3000
+  },
+  {
+    "ID": "Lobby:MatchingConfirmPostponeTime",
+    "IntValue": 10000
+  },
+  {
+    "ID": "Lobby:MatchingConfirmTimeoutTime",
+    "IntValue": 30000
+  },
+  {
+    "ID": "Lobby:AiForceMatchingTimeoutMin",
+    "IntValue": 13000
+  },
+  {
+    "ID": "Lobby:AiForceMatchingTimeoutMax",
+    "IntValue": 18000
+  },
+  {
+    "ID": "MatchRoom:StartCountDown",
+    "IntValue": 3
+  },
+  {
+    "ID": "Partner:RequestMessageMinLength",
+    "IntValue": 2
+  },
+  {
+    "ID": "Partner:RequestMessageLifetime",
+    "IntValue": 3
+  },
+  {
+    "ID": "Partner:PartyPlayPartnerExp",
+    "IntValue": 5
+  },
+  {
+    "ID": "Partner:PartyPlayPartnerExpMax",
+    "IntValue": 100
+  },
+  {
+    "ID": "Partner:CoupleGreetingMessageMaxLength",
+    "IntValue": 20
+  },
+  {
+    "ID": "Shop:PresentBodyMessageMinLength",
+    "IntValue": 2
+  },
+  {
+    "ID": "Shop:PresentBodyMessageMaxLength",
+    "IntValue": 150
+  },
+  {
+    "ID": "Lobby:AcadeMatchingCount",
+    "IntValue": 2
+  },
+  {
+    "ID": "Lobby:InsufficientItemCount",
+    "IntValue": 2
+  },
+  {
+    "ID": "CreditPoint:MatchSelectAvailable",
+    "IntValue": 90
+  },
+  {
+    "ID": "CreditPoint:MatchRandomAvailable",
+    "IntValue": 50
+  },
+  {
+    "ID": "CreditPoint:DailyMaxMinus",
+    "IntValue": 30
+  },
+  {
+    "ID": "CreditPoint:MaxCreditPoint",
+    "IntValue": 130
+  },
+  {
+    "ID": "ReportAbuse:DailyReportLimit",
+    "IntValue": 10
+  },
+  {
+    "ID": "ReportAbuse:SocialBanCount",
+    "IntValue": 20
+  },
+  {
+    "ID": "ReportAbuse:ChatBanCount",
+    "IntValue": 30
+  },
+  {
+    "ID": "ReportAbuse:MainPictureBanCount",
+    "IntValue": 10
+  },
+  {
+    "ID": "ReportAbuse:ChatBanDuration",
+    "IntValue": 86400
+  },
+  {
+    "ID": "Chat:UserIgnoreLimit",
+    "IntValue": 100
+  },
+  {
+    "ID": "AccountLink:AccountLinkRewardItem",
+    "IntValue": 2002011
+  },
+  {
+    "ID": "AccountLink:AccountLinkRewardCount",
+    "IntValue": 10
+  },
+  {
+    "ID": "Mail:UnreadMailExpireDate",
+    "IntValue": 30
+  },
+  {
+    "ID": "Time:ResetHourDaily",
+    "IntValue": 8
+  },
+  {
+    "ID": "Time:ResetHourWeekly",
+    "IntValue": 8
+  },
+  {
+    "ID": "User:LucciLimit",
+    "IntValue": 5000
+  },
+  {
+    "ID": "Promotion:LevelMarket_LevelValue",
+    "IntValue": 5
+  },
+  {
+    "ID": "Promotion:LevelMarket_WinningStreak",
+    "IntValue": 1
+  },
+  {
+    "ID": "Pet:NormalBlessingMoneyType",
+    "IntValue": 1
+  },
+  {
+    "ID": "Pet:NormalBlessingMoneyAmount",
+    "IntValue": 5000
+  },
+  {
+    "ID": "Pet:PremiumBlessingMoneyType",
+    "IntValue": 1
+  },
+  {
+    "ID": "Pet:PremiumBlessingMoneyAmount",
+    "IntValue": 15000
+  },
+  {
+    "ID": "GrowthGuide:LobbyTipVisibleTimeInMs",
+    "IntValue": 8000
+  },
+  {
+    "ID": "GrowthGuide:LobbyTipInvisibleTimeInMs",
+    "IntValue": 12000
+  },
+  {
+    "ID": "GrowthGuide:LobbyQuestPreviewCount",
+    "IntValue": 6
+  },
+  {
+    "ID": "GrowthGuide:LobbyTipInsertMultiplier",
+    "IntValue": 4
+  },
+  {
+    "ID": "GrowthGuide:NotificationLifetimeInMs",
+    "IntValue": 3000
+  },
+  {
+    "ID": "GrowthGuide:LobbyTipInitialDelayInMs",
+    "IntValue": 1000
+  },
+  {
+    "ID": "GrowthGuide:NotificationInitialDelayInMs",
+    "IntValue": 1000
+  },
+  {
+    "ID": "Pet:PetUpgradeFoodBonus",
+    "IntValue": 10
+  },
+  {
+    "ID": "Character:PaintPriceType",
+    "IntValue": 9
+  },
+  {
+    "ID": "Character:PaintPrice",
+    "IntValue": 100
+  },
+  {
+    "ID": "Gift:LevelLimit",
+    "IntValue": 10
+  },
+  {
+    "ID": "Gift:DayLimit",
+    "IntValue": 4320
+  },
+  {
+    "ID": "Profile:CreateArticleInterval",
+    "IntValue": 5000
+  },
+  {
+    "ID": "Time:ResetWeekday",
+    "IntValue": 2
+  },
+  {
+    "ID": "Mvp:ShowTimeInSec",
+    "IntValue": 4
+  },
+  {
+    "ID": "MMInventory:MaxCount",
+    "IntValue": 200
+  },
+  {
+    "ID": "Promotion:ShowCloseTime",
+    "IntValue": 7
+  },
+  {
+    "ID": "Notification:LocalPush",
+    "IntValue": 1
+  },
+  {
+    "ID": "Lobby:MatchingOfftimeStart",
+    "IntValue": 57600
+  },
+  {
+    "ID": "Lobby:MatchingOfftimeEnd",
+    "IntValue": 61200
+  },
+  {
+    "ID": "Matchmaker:OfftimeMatchmakerPhase",
+    "IntValue": 7
+  },
+  {
+    "ID": "Matchmaker:OfftimeMatchmakerTimeout",
+    "IntValue": 15
+  },
+  {
+    "ID": "Matchmaker:LowTierAiBalancingRating",
+    "IntValue": 650
+  },
+  {
+    "ID": "Club:MaxArticleCount",
+    "IntValue": 100
+  },
+  {
+    "ID": "Club:MaxArticleLength",
+    "IntValue": 34
+  },
+  {
+    "ID": "Club:CreateMoneyType",
+    "IntValue": 9
+  },
+  {
+    "ID": "Club:CreateMoneyAmount",
+    "IntValue": 500
+  },
+  {
+    "ID": "Club:NameMinLength",
+    "IntValue": 2
+  },
+  {
+    "ID": "Club:NameMaxLength",
+    "IntValue": 14
+  },
+  {
+    "ID": "Club:AliasMinLength",
+    "IntValue": 1
+  },
+  {
+    "ID": "Club:AliasMaxLength",
+    "IntValue": 3
+  },
+  {
+    "ID": "Club:DetailMaxLength",
+    "IntValue": 140
+  },
+  {
+    "ID": "Club:MaxMemberCount",
+    "IntValue": 15
+  },
+  {
+    "ID": "Club:ListDisplayCount",
+    "IntValue": 30
+  },
+  {
+    "ID": "Club:ListCacheDuration",
+    "IntValue": 60
+  },
+  {
+    "ID": "Club:MaxWaitingListCount",
+    "IntValue": 30
+  },
+  {
+    "ID": "Club:MaxPendingCount",
+    "IntValue": 5
+  },
+  {
+    "ID": "Club:ChangeNameMoneyType",
+    "IntValue": 9
+  },
+  {
+    "ID": "Club:ChangeNameMoneyAmount",
+    "IntValue": 400
+  },
+  {
+    "ID": "Club:ChangeAliasMoneyType",
+    "IntValue": 9
+  },
+  {
+    "ID": "Club:ChangeAliasMoneyAmount",
+    "IntValue": 400
+  },
+  {
+    "ID": "Club:ArticlePerPage",
+    "IntValue": 10
+  },
+  {
+    "ID": "Club:WithdrawCooltime",
+    "IntValue": 86400
+  },
+  {
+    "ID": "Club:NameReuseCooltime",
+    "IntValue": 604800
+  },
+  {
+    "ID": "Club:HandoverCooltime",
+    "IntValue": 2592000
+  },
+  {
+    "ID": "Club:WinningClubPoint",
+    "IntValue": 1
+  },
+  {
+    "ID": "Club:WinningPartyBonus",
+    "IntValue": 2
+  },
+  {
+    "ID": "Club:ClubPointLimitCount",
+    "IntValue": 10
+  },
+  {
+    "ID": "Club:ClubPointPartyLimitCount",
+    "IntValue": 10
+  },
+  {
+    "ID": "Club:AfterWithdrawRejoinCooltime",
+    "IntValue": 259200
+  },
+  {
+    "ID": "Club:ClubPointPartyBonusPercent",
+    "IntValue": 10
+  },
+  {
+    "ID": "Club:AttendanceExcludedReward",
+    "IntValue": 1015
+  },
+  {
+    "ID": "WeeklyRanking:StartDate",
+    "IntValue": 6
+  },
+  {
+    "ID": "WeeklyRanking:StartTime",
+    "IntValue": 10800
+  },
+  {
+    "ID": "WeeklyRanking:RunningDate1",
+    "IntValue": 6
+  },
+  {
+    "ID": "WeeklyRanking:RunningStarts1",
+    "IntValue": 10800
+  },
+  {
+    "ID": "WeeklyRanking:RunningDuration1",
+    "IntValue": 28800
+  },
+  {
+    "ID": "WeeklyRanking:RunningDate2",
+    "IntValue": 0
+  },
+  {
+    "ID": "WeeklyRanking:RunningStarts2",
+    "IntValue": 10800
+  },
+  {
+    "ID": "WeeklyRanking:RunningDuration2",
+    "IntValue": 28800
+  },
+  {
+    "ID": "WeeklyRanking:EndDate",
+    "IntValue": 0
+  },
+  {
+    "ID": "WeeklyRanking:EndTime",
+    "IntValue": 39600
+  },
+  {
+    "ID": "WeeklyRanking:CalculateTime",
+    "IntValue": 43200
+  },
+  {
+    "ID": "Lobby:RandomShuffleInterval",
+    "IntValue": 100
+  },
+  {
+    "ID": "Lobby:RandomSelectedModeDuration",
+    "IntValue": 1000
+  },
+  {
+    "ID": "Event:ComebackUserDefineDuration",
+    "IntValue": 2592000
+  },
+  {
+    "ID": "Rugby:EmphasizeColorIndex",
+    "IntValue": 0
+  },
+  {
+    "ID": "Friend:MaxFavoriteUserCount",
+    "IntValue": 10
+  },
+  {
+    "ID": "Notification:LongTermUserPushExtraTime",
+    "IntValue": 86400
+  },
+  {
+    "ID": "UseAllTicket:SingleTicketsLimit",
+    "IntValue": 100
+  },
+  {
+    "ID": "UseAllTicket:MultiTicketsLimit",
+    "IntValue": 20
+  },
+  {
+    "ID": "UseAllTicket:NormalGachaLimit",
+    "IntValue": 50
+  },
+  {
+    "ID": "UseAllTicket:SpecialGachaLimit",
+    "IntValue": 30
+  },
+  {
+    "ID": "Quest:NewbiePackageReceiveMaxLevel",
+    "IntValue": 29
+  },
+  {
+    "ID": "Quest:NewbiePackageOpenIntervalTime",
+    "IntValue": 960
+  },
+  {
+    "ID": "Preview:BubblePass_RenderTextureSize",
+    "IntValue": 512
+  },
+  {
+    "ID": "Preview:Shop_RenderTextureSize",
+    "IntValue": 512
+  },
+  {
+    "ID": "Preview:CostumePreview_RenderTextureSize",
+    "IntValue": 512
+  },
+  {
+    "ID": "MatchReward:WinExpGoalPoint",
+    "IntValue": 250
+  },
+  {
+    "ID": "MatchReward:WinExpRewardItem",
+    "IntValue": 1600010
+  },
+  {
+    "ID": "MatchReward:WinExpRewardCount",
+    "IntValue": 1
+  }
+]

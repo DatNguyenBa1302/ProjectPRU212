@@ -1,0 +1,181 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/heal_001_01
+  rotate: false
+  xy: 2, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_02
+  rotate: false
+  xy: 2, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_03
+  rotate: false
+  xy: 196, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_04
+  rotate: false
+  xy: 2, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_05
+  rotate: false
+  xy: 196, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_06
+  rotate: false
+  xy: 390, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_07
+  rotate: false
+  xy: 2, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_08
+  rotate: false
+  xy: 196, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_09
+  rotate: false
+  xy: 390, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_10
+  rotate: false
+  xy: 584, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_11
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_12
+  rotate: false
+  xy: 196, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_13
+  rotate: false
+  xy: 390, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_14
+  rotate: false
+  xy: 584, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_15
+  rotate: false
+  xy: 778, 778
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_16
+  rotate: false
+  xy: 196, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_17
+  rotate: false
+  xy: 390, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_18
+  rotate: false
+  xy: 584, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_19
+  rotate: false
+  xy: 778, 584
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_20
+  rotate: false
+  xy: 390, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_21
+  rotate: false
+  xy: 584, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_22
+  rotate: false
+  xy: 778, 390
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_23
+  rotate: false
+  xy: 584, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_24
+  rotate: false
+  xy: 778, 196
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+images/heal_001_25
+  rotate: false
+  xy: 778, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1

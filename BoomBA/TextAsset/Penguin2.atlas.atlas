@@ -1,0 +1,55 @@
+
+Penguin2.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_back
+  rotate: true
+  xy: 63, 11
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 126, 11
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+body_side
+  rotate: false
+  xy: 2, 5
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+flag99
+  rotate: false
+  xy: 241, 38
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 293, 41
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+no
+  rotate: true
+  xy: 185, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 185, 24
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1

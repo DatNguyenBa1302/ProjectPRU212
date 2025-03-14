@@ -1,0 +1,188 @@
+
+bomb_upgrade.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bomb_upgrade/0_10
+  rotate: false
+  xy: 2, 133
+  size: 139, 140
+  orig: 139, 140
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_0
+  rotate: false
+  xy: 2, 779
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_1
+  rotate: false
+  xy: 2, 611
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_2
+  rotate: false
+  xy: 166, 779
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_3
+  rotate: false
+  xy: 2, 443
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_4
+  rotate: false
+  xy: 166, 611
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_5
+  rotate: false
+  xy: 330, 779
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_6
+  rotate: false
+  xy: 2, 275
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_7
+  rotate: false
+  xy: 166, 443
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_8
+  rotate: false
+  xy: 330, 611
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_9
+  rotate: false
+  xy: 494, 779
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_0
+  rotate: false
+  xy: 166, 312
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_1
+  rotate: false
+  xy: 330, 480
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_2
+  rotate: false
+  xy: 494, 648
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_3
+  rotate: false
+  xy: 658, 816
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_4
+  rotate: false
+  xy: 2, 2
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_5
+  rotate: false
+  xy: 789, 816
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_6
+  rotate: false
+  xy: 494, 517
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/ball_aura/default_7
+  rotate: false
+  xy: 773, 537
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_3
+  rotate: false
+  xy: 920, 799
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_4
+  rotate: true
+  xy: 658, 717
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_5
+  rotate: false
+  xy: 806, 668
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_6
+  rotate: false
+  xy: 905, 651
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_7
+  rotate: true
+  xy: 625, 618
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_8
+  rotate: true
+  xy: 625, 519
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_9
+  rotate: false
+  xy: 904, 503
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1

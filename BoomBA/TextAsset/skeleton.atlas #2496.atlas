@@ -1,0 +1,160 @@
+
+skeleton.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PetSkill/Chicken/1
+  rotate: false
+  xy: 965, 170
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_0
+  rotate: false
+  xy: 2, 150
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_1
+  rotate: false
+  xy: 2, 76
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_2
+  rotate: false
+  xy: 127, 150
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_3
+  rotate: false
+  xy: 2, 2
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_4
+  rotate: false
+  xy: 127, 76
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_5
+  rotate: false
+  xy: 252, 150
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/blash_out/NpcReturn_6
+  rotate: false
+  xy: 127, 2
+  size: 123, 72
+  orig: 123, 72
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_0
+  rotate: false
+  xy: 252, 52
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_1
+  rotate: true
+  xy: 377, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_10
+  rotate: true
+  xy: 634, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_11
+  rotate: true
+  xy: 732, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_12
+  rotate: true
+  xy: 830, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_13
+  rotate: false
+  xy: 928, 38
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_2
+  rotate: true
+  xy: 475, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_3
+  rotate: true
+  xy: 573, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_4
+  rotate: true
+  xy: 671, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_5
+  rotate: true
+  xy: 769, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_6
+  rotate: true
+  xy: 867, 136
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_7
+  rotate: true
+  xy: 340, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_8
+  rotate: true
+  xy: 438, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+summons/typhoon buff/3_9
+  rotate: true
+  xy: 536, 48
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1

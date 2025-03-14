@@ -1,0 +1,41 @@
+
+Boss_jelly2.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 78, 10
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+eye_bow
+  rotate: false
+  xy: 57, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 111, 32
+  size: 9, 22
+  orig: 9, 22
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 57, 22
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1

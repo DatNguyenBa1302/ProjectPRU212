@@ -1,0 +1,230 @@
+
+SkillPet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+summons/amor_buff/0_0
+  rotate: false
+  xy: 2, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_1
+  rotate: false
+  xy: 2, 674
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_2
+  rotate: false
+  xy: 166, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_3
+  rotate: false
+  xy: 2, 506
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_4
+  rotate: false
+  xy: 166, 674
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_5
+  rotate: false
+  xy: 330, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_6
+  rotate: false
+  xy: 2, 338
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_7
+  rotate: false
+  xy: 166, 506
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_8
+  rotate: false
+  xy: 330, 674
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/amor_buff/0_9
+  rotate: false
+  xy: 494, 842
+  size: 162, 166
+  orig: 162, 166
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_0
+  rotate: true
+  xy: 330, 459
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_1
+  rotate: true
+  xy: 494, 627
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_10
+  rotate: false
+  xy: 381, 351
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_11
+  rotate: true
+  xy: 438, 459
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_2
+  rotate: true
+  xy: 658, 795
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_3
+  rotate: true
+  xy: 766, 795
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_4
+  rotate: true
+  xy: 874, 795
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_5
+  rotate: false
+  xy: 114, 174
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_6
+  rotate: false
+  xy: 114, 66
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_7
+  rotate: false
+  xy: 217, 174
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_8
+  rotate: false
+  xy: 217, 66
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blackhole/2023383_9
+  rotate: false
+  xy: 278, 351
+  size: 101, 106
+  orig: 101, 106
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_0
+  rotate: false
+  xy: 2, 226
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_1
+  rotate: false
+  xy: 166, 394
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_2
+  rotate: false
+  xy: 330, 562
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_3
+  rotate: false
+  xy: 494, 730
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_4
+  rotate: false
+  xy: 658, 898
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_5
+  rotate: false
+  xy: 2, 114
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_6
+  rotate: false
+  xy: 770, 898
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_7
+  rotate: false
+  xy: 2, 2
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_8
+  rotate: false
+  xy: 882, 898
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+summons/blash_ball/2022269_9
+  rotate: false
+  xy: 166, 282
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1

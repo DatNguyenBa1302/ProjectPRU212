@@ -1,0 +1,244 @@
+
+item_showing.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+summons/star_buffing/2022907_0
+  rotate: true
+  xy: 706, 382
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_1
+  rotate: true
+  xy: 854, 382
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_10
+  rotate: true
+  xy: 150, 200
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_11
+  rotate: true
+  xy: 298, 200
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_12
+  rotate: true
+  xy: 446, 200
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_13
+  rotate: true
+  xy: 594, 184
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_14
+  rotate: true
+  xy: 742, 184
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_15
+  rotate: true
+  xy: 2, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_16
+  rotate: true
+  xy: 150, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_17
+  rotate: true
+  xy: 298, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_18
+  rotate: true
+  xy: 446, 101
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_19
+  rotate: false
+  xy: 890, 86
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_2
+  rotate: true
+  xy: 2, 299
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_20
+  rotate: true
+  xy: 594, 85
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_21
+  rotate: true
+  xy: 742, 85
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_22
+  rotate: true
+  xy: 2, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_23
+  rotate: true
+  xy: 150, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_24
+  rotate: true
+  xy: 298, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_25
+  rotate: true
+  xy: 446, 2
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_3
+  rotate: true
+  xy: 150, 299
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_4
+  rotate: true
+  xy: 298, 299
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_5
+  rotate: true
+  xy: 446, 299
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_6
+  rotate: true
+  xy: 594, 283
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_7
+  rotate: true
+  xy: 742, 283
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_8
+  rotate: false
+  xy: 890, 234
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/star_buffing/2022907_9
+  rotate: true
+  xy: 2, 200
+  size: 97, 146
+  orig: 97, 146
+  offset: 0, 0
+  index: -1
+summons/starlight/42_0
+  rotate: true
+  xy: 2, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_1
+  rotate: true
+  xy: 90, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_2
+  rotate: true
+  xy: 178, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_3
+  rotate: true
+  xy: 266, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_4
+  rotate: true
+  xy: 354, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_5
+  rotate: true
+  xy: 442, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_6
+  rotate: true
+  xy: 530, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+summons/starlight/42_7
+  rotate: true
+  xy: 618, 398
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1

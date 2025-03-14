@@ -1,0 +1,76 @@
+
+item_showing.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+opengift/c
+  rotate: false
+  xy: 308, 4
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+opengift/c0
+  rotate: false
+  xy: 874, 60
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+opengift/circle_border1 copy
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+opengift/flo
+  rotate: false
+  xy: 408, 6
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+opengift/p
+  rotate: false
+  xy: 789, 16
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+opengift/p0
+  rotate: false
+  xy: 506, 6
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+opengift/piece_border1 copy
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+opengift/r
+  rotate: false
+  xy: 604, 6
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+opengift/r0
+  rotate: false
+  xy: 702, 9
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+opengift/round_border3-copy
+  rotate: false
+  xy: 206, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

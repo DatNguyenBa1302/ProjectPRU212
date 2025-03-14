@@ -1,0 +1,48 @@
+
+Up_pet.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hero_Item/card
+  rotate: true
+  xy: 312, 248
+  size: 245, 278
+  orig: 245, 278
+  offset: 0, 0
+  index: -1
+Hero_Item/card2
+  rotate: true
+  xy: 592, 248
+  size: 245, 278
+  orig: 245, 278
+  offset: 0, 0
+  index: -1
+Home/khoi2
+  rotate: false
+  xy: 2, 46
+  size: 169, 175
+  orig: 169, 175
+  offset: 0, 0
+  index: -1
+Ren/flow_cirle
+  rotate: false
+  xy: 2, 223
+  size: 308, 270
+  orig: 308, 270
+  offset: 0, 0
+  index: -1
+Ren/lua1
+  rotate: false
+  xy: 872, 416
+  size: 39, 77
+  orig: 39, 77
+  offset: 0, 0
+  index: -1
+Slot/star
+  rotate: false
+  xy: 312, 2
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+Cup.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cup
+  rotate: true
+  xy: 2, 2
+  size: 215, 312
+  orig: 215, 312
+  offset: 0, 0
+  index: -1
+cup1
+  rotate: true
+  xy: 316, 2
+  size: 215, 312
+  orig: 215, 312
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 630, 159
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
