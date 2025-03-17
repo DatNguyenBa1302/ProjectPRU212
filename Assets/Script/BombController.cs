@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -21,6 +22,7 @@ public class BombController : MonoBehaviour
     public Tilemap destructibleTiles;
     public Destructible destructiblePrefab;
 
+	private HashSet<Vector2> bombPositions = new HashSet<Vector2>();
 	private bool bombPlacementInProgress = false;
 
 	private void OnEnable()
@@ -49,8 +51,14 @@ public class BombController : MonoBehaviour
         position.x = Mathf.Round(position.x);
         position.y = Mathf.Round(position.y);
 
-        GameObject bomb =  Instantiate(bombPrefab, position, Quaternion.identity);
-        bombsRemaining--;
+		if (bombPositions.Contains(position))
+		{
+			yield break; // Dừng coroutine nếu vị trí đã có bom
+		}
+
+		GameObject bomb =  Instantiate(bombPrefab, position, Quaternion.identity);
+		bombPositions.Add(position);
+		bombsRemaining--;
 
         yield return new WaitForSeconds(bombFuseTime);
 
@@ -58,17 +66,22 @@ public class BombController : MonoBehaviour
         position.x = Mathf.Round(position.x);
         position.y = Mathf.Round(position.y);
 
-        Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-        explosion.SetActiveRenderer(explosion.start);
+		int explosionID = Random.Range(0, int.MaxValue);
+
+		Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
+		explosion.explosionID = explosionID;
+		explosion.explosionOwner = "Player";
+		explosion.SetActiveRenderer(explosion.start);
         explosion.DestroyAfter(explosionDuration);
 
-        Explode(position, Vector2.up, explosionRadius);
-        Explode(position, Vector2.down, explosionRadius);
-        Explode(position, Vector2.left, explosionRadius);
-        Explode(position, Vector2.right, explosionRadius);
+		Explode(position, Vector2.up, explosionRadius, explosionID);
+		Explode(position, Vector2.down, explosionRadius, explosionID);
+		Explode(position, Vector2.left, explosionRadius, explosionID);
+		Explode(position, Vector2.right, explosionRadius, explosionID);
 
+		bombPositions.Remove(position);
 
-        Destroy(bomb );
+		Destroy(bomb );
         bombsRemaining++;   
     }
 
@@ -80,7 +93,7 @@ public class BombController : MonoBehaviour
         }
     }
 
-    private void Explode(Vector2 position, Vector2 direction, int length)
+    private void Explode(Vector2 position, Vector2 direction, int length, int explosionID)
     {
         if (length <= 0)
         {
@@ -91,22 +104,21 @@ public class BombController : MonoBehaviour
 
         if(Physics2D.OverlapBox(position, Vector2.one / 2f, 0f, explosionLayerMask))
         {
-            /* Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-             explosion.SetActiveRenderer(explosion.end);
-             explosion.SetDirection(direction);
-             explosion.DestroyAfter(explosionDuration);*/
+            
             ClearDestructible(position);
             return;
         }else
         {
             Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-            explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
+			explosion.explosionID = explosionID;
+			explosion.explosionOwner = "Player";
+			explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
             explosion.SetDirection(direction);
             explosion.DestroyAfter(explosionDuration);
         }
 
-        Explode(position, direction, length - 1);
-    }
+		Explode(position, direction, length - 1, explosionID);
+	}
 
     private void ClearDestructible(Vector2 position)
     {

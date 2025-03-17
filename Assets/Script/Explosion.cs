@@ -6,7 +6,10 @@ public class Explosion : MonoBehaviour
     public AnimationSpritesRender middle;
     public AnimationSpritesRender end;
 
-    public void SetActiveRenderer(AnimationSpritesRender renderer)
+	public int explosionID;
+	public string explosionOwner;
+
+	public void SetActiveRenderer(AnimationSpritesRender renderer)
     {
         start.enabled = renderer == start;
         middle.enabled = renderer == middle;

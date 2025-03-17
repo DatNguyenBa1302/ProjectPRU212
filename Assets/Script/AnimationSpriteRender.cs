@@ -40,7 +40,7 @@ public class AnimationSpritesRender : MonoBehaviour
         if (idle)
         {
             spriteRender.sprite = idleSprite;
-        }else if(animationFrame >= 0 && animationFrame < animationSprites.Length) { }
+        }else if(animationFrame >= 0 && animationFrame < animationSprites.Length) 
         {
             spriteRender.sprite = animationSprites[animationFrame];
         }
