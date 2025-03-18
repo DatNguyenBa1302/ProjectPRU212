@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 859e6b504c4e312449bae4d443fee105
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3914021959612465940
+    second: bombwater_0
+  - first:
+      213: -4620769555860437644
+    second: bombwater_1
+  - first:
+      213: -968553044968451581
+    second: bombwater_2
+  - first:
+      213: -829741155331688352
+    second: bombwater_3
+  - first:
+      213: 5499243582699167591
+    second: bombwater_4
+  - first:
+      213: -1532896878651109736
+    second: bombwater_5
+  - first:
+      213: -7445918085156312132
+    second: bombwater_6
+  - first:
+      213: -7091844345612371576
+    second: bombwater_7
+  - first:
+      213: -2173538798126241255
+    second: bombwater_8
+  - first:
+      213: -6307988169820150772
+    second: bombwater_9
+  - first:
+      213: 3641589484946826966
+    second: bombwater_10
+  - first:
+      213: -5277246399779932658
+    second: bombwater_11
+  - first:
+      213: -2452022989352428462
+    second: bombwater_12
+  - first:
+      213: 1268637836425794611
+    second: bombwater_13
+  - first:
+      213: -7250725757521162153
+    second: bombwater_14
+  - first:
+      213: 1037989081511313752
+    second: bombwater_15
+  - first:
+      213: 1338210593351925102
+    second: bombwater_16
+  - first:
+      213: 4859692586384625791
+    second: bombwater_17
+  - first:
+      213: 6100188441241469115
+    second: bombwater_18
+  - first:
+      213: -2633747431159407922
+    second: bombwater_19
+  - first:
+      213: -322066043086728655
+    second: bombwater_20
+  - first:
+      213: 6132416230902893911
+    second: bombwater_21
+  - first:
+      213: 5726644647013808274
+    second: bombwater_22
+  - first:
+      213: -3086227225000154024
+    second: bombwater_23
+  - first:
+      213: 2220802586547958068
+    second: bombwater_24
+  - first:
+      213: -817436372218655585
+    second: bombwater_25
+  - first:
+      213: -5252787041437522352
+    second: bombwater_26
+  - first:
+      213: -2032523320427919577
+    second: bombwater_27
+  - first:
+      213: -4461461294545664749
+    second: bombwater_28
+  - first:
+      213: -4628511130895821501
+    second: bombwater_29
+  - first:
+      213: -469684416297942730
+    second: bombwater_30
+  - first:
+      213: 8647473681605985476
+    second: bombwater_31
+  - first:
+      213: -7996393493421491967
+    second: bombwater_32
+  - first:
+      213: -629371670936624477
+    second: bombwater_33
+  - first:
+      213: -2034302599633106248
+    second: bombwater_34
+  - first:
+      213: 8331915463183444818
+    second: bombwater_35
+  - first:
+      213: -5574327451441332498
+    second: bombwater_36
+  - first:
+      213: 2857642931530053058
+    second: bombwater_37
+  - first:
+      213: 3363926513009337910
+    second: bombwater_38
+  - first:
+      213: 6810870357702986488
+    second: bombwater_39
+  - first:
+      213: 171375365914047184
+    second: bombwater_40
+  - first:
+      213: -3447141209129018266
+    second: bombwater_41
+  - first:
+      213: -203793120598335203
+    second: bombwater_42
+  - first:
+      213: 2878236508299468681
+    second: bombwater_43
+  - first:
+      213: 5970676704619600845
+    second: bombwater_44
+  - first:
+      213: 1867776151580610242
+    second: bombwater_45
+  - first:
+      213: -7959283965071980970
+    second: bombwater_46
+  - first:
+      213: 6441235491404910882
+    second: bombwater_47
+  - first:
+      213: 4909643295173116344
+    second: bombwater_48
+  - first:
+      213: 7668155887089948945
+    second: bombwater_49
+  - first:
+      213: -4308454689463017693
+    second: bombwater_50
+  - first:
+      213: 960828426288015823
+    second: bombwater_51
+  - first:
+      213: -4199979732364927832
+    second: bombwater_52
+  - first:
+      213: 4545689105604554162
+    second: bombwater_53
+  - first:
+      213: -2668307432741134939
+    second: bombwater_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bombwater_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 417
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ae22a57bf83c43a336a2b6a93fd97
+      internalID: -525500882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 417
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed876d7ed3e054098ad9a8642cfc61
+      internalID: -702430843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 417
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44441ed469e83f14284a8c87bdfd3371
+      internalID: 1181819459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 417
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268577d48581f0b4dbfe072d6e9244eb
+      internalID: -980602947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 346
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd4bc4a91728b4fa66b5f20dab05bd
+      internalID: 14826928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 346
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ca35bf1cdf4b49870dcd769bd1100
+      internalID: -1669850717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 346
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1281515c27a31442ba42ed3be671b63
+      internalID: 500272699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd677d9b21b610047b5aa77540ed394d
+      internalID: -1632969342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 275
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881435f33daf8744acff1414947767a
+      internalID: 3789969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 275
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f16be2a07ad14eac231cdc9121311
+      internalID: 250501497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 281
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d808972e1d80142ab839e611480195
+      internalID: 1751668761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 275
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb9a3f8db34a3419170071679452e8
+      internalID: 1009155264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_12
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 275
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08767f523ddf7a7459023d7553f0b6f3
+      internalID: -614842481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 275
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064853963d737a47962524d1098f25e
+      internalID: 1493465775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 303
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7850e1b2c8143479d58fafc51cc992
+      internalID: -1986398431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 276
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a656d98d53e961543a557610ae4c772f
+      internalID: 145939266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 279
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2257c6b6bd88824bbe0642ef3e39b61
+      internalID: 668849824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 275
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a4a9845bd818409452a91c5f866c1
+      internalID: -829994464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 274
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bace731a2ef9848abca780d8d66169
+      internalID: -1400462325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_19
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 276
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137926f963dbe94f9103678f3ecee3e
+      internalID: 17448485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9651c4d69af835f4891e32b1b06c0c72
+      internalID: 106059727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_21
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f48b41e4796f409b6c125ce00e16b
+      internalID: 1588917302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 199
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba030453e5c69459d35ddc03adf2dd
+      internalID: -1452548646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 205
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8393cf127f6e9fd4b8f46a5a48657f12
+      internalID: -652983860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 227
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8218068453608b47a1f601cb8674bc9
+      internalID: 1045498824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 208
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ad66f2f85c9e74e91673120b82b661
+      internalID: 1188909917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 220
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687a9575dd5c6f741bf36941eb119792
+      internalID: 972724144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 212
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b14e184ea95fc468d094bfa40dca7a
+      internalID: 886908843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76286510c33d5d4288a03d7fcf93071
+      internalID: 972233523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_29
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 200
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb750c8a3670174a8d3a98869b07311
+      internalID: -637992305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_30
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 200
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9711b96ee5a74685a15a55bdddec6
+      internalID: 1516734267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40224ce481fd7604db75b31ee78ef770
+      internalID: 9904243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 229
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd645f86084f340ad88a117e8978ca
+      internalID: -1532864388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 200
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889c08cff34ce5e43a5794878e383ae7
+      internalID: -1097891648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_34
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 200
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c6280a3c54a0c4b9c98c5dea26f3bc
+      internalID: 1318341268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_35
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a01eabec11f034393984b3ff54280b
+      internalID: -107436614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 116
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc84886d81bc9540aba1b19be2d7301
+      internalID: -215496477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7c9d2fd8080bb4db68bcdcb9c958f1
+      internalID: -1679439707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98acf155d9be5949b6c0f98133aed36
+      internalID: -1483982819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 135
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c229a05f8ff145a20129a4bb5cf9b
+      internalID: -694759710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae20a05db897064c84517cbd101c07d
+      internalID: -1026102863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 116
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783dc8cd976838e4db82aa42f2d61667
+      internalID: -1575089676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 116
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb32f3db236cd49bbe343a430b0daa
+      internalID: 993213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_43
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 116
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d162f5de75fff4ca361e7185f4e3a7
+      internalID: 51223320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 118
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5e164e7e5ec814292b221309b2ded8
+      internalID: -757351833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ee5367e9ab4f41b462701ea4aa8fc
+      internalID: 1119197467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b99e20c03ed9e4684d02cc58b6edcc
+      internalID: -814905874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34b7542f8b9ab448b260436399a7fc2
+      internalID: -585069129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_48
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 41
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9eb6e85810c384fb1b4ba60f7464a6
+      internalID: -1861436975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_49
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 41
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3073a527f639458312a6f8345cae9
+      internalID: 1134934316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_50
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 41
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c891421463f1434694fb04f813b004c
+      internalID: 830436921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 41
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cdfbf3f77349642b04d3c2d262c492
+      internalID: 2030992375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_52
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 41
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19beeba7bb70652459000d4d54c1702d
+      internalID: 1461564346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_53
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 68
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66bda93584293d4ebbfffd08e918ff4
+      internalID: -1595503177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombwater_54
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 57
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300908f12be10024b94ebc40b64b1498
+      internalID: 301918697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e51b8b6fa0600a64a9aaae78d0c8c3df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bombwater_0: -525500882
+      bombwater_1: -702430843
+      bombwater_10: 1751668761
+      bombwater_11: 1009155264
+      bombwater_12: -614842481
+      bombwater_13: 1493465775
+      bombwater_14: -1986398431
+      bombwater_15: 145939266
+      bombwater_16: 668849824
+      bombwater_17: -829994464
+      bombwater_18: -1400462325
+      bombwater_19: 17448485
+      bombwater_2: 1181819459
+      bombwater_20: 106059727
+      bombwater_21: 1588917302
+      bombwater_22: -1452548646
+      bombwater_23: -652983860
+      bombwater_24: 1045498824
+      bombwater_25: 1188909917
+      bombwater_26: 972724144
+      bombwater_27: 886908843
+      bombwater_28: 972233523
+      bombwater_29: -637992305
+      bombwater_3: -980602947
+      bombwater_30: 1516734267
+      bombwater_31: 9904243
+      bombwater_32: -1532864388
+      bombwater_33: -1097891648
+      bombwater_34: 1318341268
+      bombwater_35: -107436614
+      bombwater_36: -215496477
+      bombwater_37: -1679439707
+      bombwater_38: -1483982819
+      bombwater_39: -694759710
+      bombwater_4: 14826928
+      bombwater_40: -1026102863
+      bombwater_41: -1575089676
+      bombwater_42: 993213
+      bombwater_43: 51223320
+      bombwater_44: -757351833
+      bombwater_45: 1119197467
+      bombwater_46: -814905874
+      bombwater_47: -585069129
+      bombwater_48: -1861436975
+      bombwater_49: 1134934316
+      bombwater_5: -1669850717
+      bombwater_50: 830436921
+      bombwater_51: 2030992375
+      bombwater_52: 1461564346
+      bombwater_53: -1595503177
+      bombwater_54: 301918697
+      bombwater_6: 500272699
+      bombwater_7: -1632969342
+      bombwater_8: 3789969
+      bombwater_9: 250501497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
