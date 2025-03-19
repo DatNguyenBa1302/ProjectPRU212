@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: ab6ca50f69ab3474fac89c41bb8a4d7d
+guid: 56982b57234d46c458d5aa4dc183f5f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6596001855326480905
-    second: colorbubble_0
-  - first:
-      213: -4691588831069241378
-    second: colorbubble_1
-  - first:
-      213: 8662913569759121698
-    second: colorbubble_2
+      213: 2019768342571219606
+    second: search_war_btn_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: colorbubble_0
+      name: search_war_btn_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 21
-        width: 40
-        height: 43
+        x: 0
+        y: 0
+        width: 239
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90a6d848db4b98b50800000000000000
-      internalID: 6596001855326480905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: colorbubble_1
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 21
-        width: 42
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: edf7de3b0d024eeb0800000000000000
-      internalID: -4691588831069241378
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: colorbubble_2
-      rect:
-        serializedVersion: 2
-        x: 158
-        y: 21
-        width: 46
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 221576d5ef9d83870800000000000000
-      internalID: 8662913569759121698
+      spriteID: 69a798b3b98a70c10800000000000000
+      internalID: 2019768342571219606
       vertices: []
       indices: 
       edges: []
@@ -197,10 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      colorbubble_0: 6596001855326480905
-      colorbubble_1: -4691588831069241378
-      colorbubble_2: 8662913569759121698
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
