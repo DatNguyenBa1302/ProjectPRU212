@@ -15,7 +15,12 @@ public class MainMenu : MonoBehaviour
 		SceneManager.LoadSceneAsync(1);
 	}
 
-	public void PlayWithFriend()
+	public void PlayWithFriendMap_1()
+	{
+		SceneManager.LoadSceneAsync(1);
+	}
+
+	public void PlayWithFriendMap_2()
 	{
 		SceneManager.LoadSceneAsync(1);
 	}
