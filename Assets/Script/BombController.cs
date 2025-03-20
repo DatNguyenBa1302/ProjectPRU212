@@ -69,7 +69,6 @@ public class BombController : MonoBehaviour
 		int explosionID = Random.Range(0, int.MaxValue);
 
 		Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-		explosion.explosionID = explosionID;
 		explosion.explosionOwner = "Player";
 		explosion.SetActiveRenderer(explosion.start);
         explosion.DestroyAfter(explosionDuration);
@@ -81,7 +80,7 @@ public class BombController : MonoBehaviour
 
 		bombPositions.Remove(position);
 
-		Destroy(bomb );
+		Destroy(bomb);
         bombsRemaining++;   
     }
 
@@ -91,7 +90,7 @@ public class BombController : MonoBehaviour
         {
             other.isTrigger = false;
         }
-    }
+    } 
 
     private void Explode(Vector2 position, Vector2 direction, int length, int explosionID)
     {
@@ -110,7 +109,6 @@ public class BombController : MonoBehaviour
         }else
         {
             Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-			explosion.explosionID = explosionID;
 			explosion.explosionOwner = "Player";
 			explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
             explosion.SetDirection(direction);

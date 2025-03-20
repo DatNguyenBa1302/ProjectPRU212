@@ -28,7 +28,8 @@ public class TankEnemyController : MonoBehaviour
 	private float health, maxHealth = 3f;
 
 
-	private HashSet<int> explosionsHit = new HashSet<int>();
+	private float damageCooldown = 0.5f; 
+	private float lastDamageTime;
 
 	private void Awake()
 	{
@@ -109,10 +110,9 @@ public class TankEnemyController : MonoBehaviour
 		SetAnimationDirection(currentDirection);
 	}
 
-	// Ki?m tra n?u có v?t c?n ? h??ng ch? ??nh
 	bool IsBlocked(Vector2 direction)
 	{
-		RaycastHit2D hit = Physics2D.Raycast(rb.position, direction, 0.55f, obstacleLayer);
+		RaycastHit2D hit = Physics2D.Raycast(rb.position, direction,1f, obstacleLayer);
 		return hit.collider != null;
 	}
 
@@ -150,10 +150,9 @@ public class TankEnemyController : MonoBehaviour
 
 			if (explosion != null && explosion.explosionOwner == "Player")
 			{
-				if (!explosionsHit.Contains(explosion.explosionID))
+				if (Time.time >= lastDamageTime + damageCooldown)
 				{
-					explosionsHit.Add(explosion.explosionID);  // Đánh dấu ID vụ nổ đã gây sát thương
-
+					lastDamageTime = Time.time;
 					health--;
 					healthBar.UpdateHealthBar(health, maxHealth);
 
@@ -167,18 +166,7 @@ public class TankEnemyController : MonoBehaviour
 			}
 		}
 	}
-
-	private void OnTriggerExit2D(Collider2D other)
-	{
-		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
-		{
-			Explosion explosion = other.GetComponent<Explosion>();
-			if (explosion != null)
-			{
-				explosionsHit.Remove(explosion.explosionID); // Cho phép nhận sát thương lại từ vụ nổ mới
-			}
-		}
-	}
+	
 
 	private void DeathSequence()
 	{
