@@ -6,7 +6,6 @@ public class AudioManager : MonoBehaviour
     // luu audio source
     public AudioSource musicAudioSource;
     public AudioSource vfxAudioSource;
-	//public AudioSource continuousAudioSource;
 
 	// luu am thanh
 	public AudioClip backgroundClip;
@@ -14,9 +13,11 @@ public class AudioManager : MonoBehaviour
     public AudioClip bomb;
     public AudioClip win;
     public AudioClip lose;
-    /*public AudioClip lonVong;
-    public AudioClip tangToc;
-    public AudioClip truotTuyet;*/
+    public AudioClip playerDame;
+    public AudioClip ghost;
+    public AudioClip boss;
+    public AudioClip tank;
+    public AudioClip random;
     public AudioClip getItem;
 
     void Awake()
@@ -42,6 +43,14 @@ public class AudioManager : MonoBehaviour
 
     public void PlaySFX(AudioClip sfxClip)
     {
+        /*if (sfxClip == null || vfxAudioSource == null)
+        {
+            Debug.LogWarning("Audio clip hoặc vfxAudioSource bị null!");
+            return;
+        }
+        vfxAudioSource.clip = sfxClip;
+        vfxAudioSource.PlayOneShot(sfxClip);*/
+
         vfxAudioSource.clip = sfxClip;
         vfxAudioSource.PlayOneShot(sfxClip);
     }

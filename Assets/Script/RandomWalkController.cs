@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class RandomWalkController : MonoBehaviour
 {
+	private AudioManager audioManager;
 	public float speed = 3f;
 	public float changeDirectionInterval = 2f;
 	public LayerMask obstacleLayer;
@@ -23,7 +24,12 @@ public class RandomWalkController : MonoBehaviour
 	private bool isMovingToCell = false;
 	private bool isDead = false;
 
-	void Start()
+    public void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
+    void Start()
 	{
 		rb = GetComponent<Rigidbody2D>();
 
@@ -137,7 +143,11 @@ public class RandomWalkController : MonoBehaviour
 
 			if (explosion != null && explosion.explosionOwner == "Player")
 			{
-				DeathSequence();
+                if (audioManager != null && audioManager.random != null)
+                {
+                    audioManager.PlaySFX(audioManager.random);
+                }
+                DeathSequence();
 			}
 		}
 	}

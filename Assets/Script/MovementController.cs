@@ -6,7 +6,8 @@ using UnityEngine;
 
 public class MovementController : MonoBehaviour
 {
-	public new Rigidbody2D rigidbody { get; private set; }
+    private AudioManager audioManager;
+    public new Rigidbody2D rigidbody { get; private set; }
 	private Vector2 direction = Vector2.down;
 	public float speed = 5f;
 
@@ -37,7 +38,8 @@ public class MovementController : MonoBehaviour
 		playerCollider = GetComponent<Collider2D>();
 		currentHealth = startingHealth;
 		activeSpriteRender = spriteRenderDown;
-	}
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 
 	private void Update()
 	{
@@ -98,8 +100,12 @@ public class MovementController : MonoBehaviour
 		{
 			if (Time.time >= lastDamageTime + damageCooldown)
 			{
+                if (audioManager != null && audioManager.playerDame != null)
+                {
+                    audioManager.PlaySFX(audioManager.playerDame);
+                }
 
-				if (currentHealth > 0)
+                if (currentHealth > 0)
 				{
 					lastDamageTime = Time.time;
 					currentHealth--;
@@ -139,9 +145,12 @@ public class MovementController : MonoBehaviour
 	private void TakeDamage(int amount)
 	{
 		currentHealth -= amount;
-
-		// Gọi stun 0.5s mỗi lần dính đòn
-		StartCoroutine(DisableMovement(0.5f));
+        if (audioManager != null && audioManager.playerDame != null)
+        {
+            audioManager.PlaySFX(audioManager.playerDame);
+        }
+        // Gọi stun 0.5s mỗi lần dính đòn
+        StartCoroutine(DisableMovement(0.5f));
 
 		// Nếu máu hết => DeathSequence
 		if (currentHealth <= 0)

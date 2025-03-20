@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class TankEnemyController : MonoBehaviour
 {
-	public float speed = 3f;
+    private AudioManager audioManager;
+    public float speed = 3f;
 	public float changeDirectionInterval = 2f; // Th?i gian ??i h??ng b?t ch?t
 	public LayerMask obstacleLayer;
 
@@ -34,7 +35,8 @@ public class TankEnemyController : MonoBehaviour
 	private void Awake()
 	{
 		healthBar = GetComponentInChildren<HealthBar>();
-	}
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
 	void Start()
 	{
 		rb = GetComponent<Rigidbody2D>();
@@ -147,7 +149,7 @@ public class TankEnemyController : MonoBehaviour
 		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
 		{
 			Explosion explosion = other.GetComponent<Explosion>();
-
+			audioManager.PlaySFX(audioManager.tank);
 			if (explosion != null && explosion.explosionOwner == "Player")
 			{
 				if (Time.time >= lastDamageTime + damageCooldown)

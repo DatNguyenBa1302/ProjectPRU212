@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Map1_PlayWithFriend.unity
     guid: cfdb960b64cecd9459f3afd684d7f74e
   - enabled: 1
+    path: Assets/Scenes/Map2_PlayWithFriend.unity
+    guid: 32970333a2b40ec4c85450ebb4252127
+  - enabled: 1
     path: Assets/Scenes/Map1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1

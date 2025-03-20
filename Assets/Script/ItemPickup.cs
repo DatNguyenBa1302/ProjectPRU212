@@ -6,7 +6,7 @@ public class ItemPickup : MonoBehaviour
 
     private void Awake()
     {
-        audioManager = FindAnyObjectByType<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     public enum ItemType
 	{

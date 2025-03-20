@@ -2,6 +2,7 @@
 
 public class ChasingEnemyController : MonoBehaviour
 {
+	private AudioManager audioManager;
 	public float speed = 3f;
 	public float chaseSpeed = 4.5f;
 	public float detectionRange = 5f;
@@ -38,7 +39,12 @@ public class ChasingEnemyController : MonoBehaviour
 	private float stuckTimer = 0f;
 	private const float stuckThreshold = 1f;
 
-	void Start()
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
+    void Start()
 	{
 		rb = GetComponent<Rigidbody2D>();
 		player = GameObject.FindGameObjectWithTag("Player").transform;
@@ -287,7 +293,11 @@ public class ChasingEnemyController : MonoBehaviour
 
 			if (explosion != null && explosion.explosionOwner == "Player")
 			{
-				DeathSequence();
+                if (audioManager != null && audioManager.ghost != null)
+                {
+                    audioManager.PlaySFX(audioManager.ghost);
+                }
+                DeathSequence();
 			}
 		}
 	}

@@ -5,6 +5,7 @@ using UnityEngine.Tilemaps;
 
 public class BombController : MonoBehaviour
 {
+    private AudioManager audioManager;
     [Header("Boom")]
     public GameObject bombPrefab;
     public KeyCode inputKey = KeyCode.Space;
@@ -24,10 +25,10 @@ public class BombController : MonoBehaviour
 
 	private HashSet<Vector2> bombPositions = new HashSet<Vector2>();
 	private bool bombPlacementInProgress = false;
-    private AudioManager audioManager;
+    
     private void Awake()
     {
-        audioManager = FindAnyObjectByType<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void OnEnable()
@@ -64,9 +65,13 @@ public class BombController : MonoBehaviour
 		GameObject bomb =  Instantiate(bombPrefab, position, Quaternion.identity);
 		bombPositions.Add(position);
 		bombsRemaining--;
-        audioManager.PlaySFX(audioManager.bomb);
+		//audioManager.PlaySFX(audioManager.bomb);
+		if (audioManager != null && audioManager.bomb != null)
+		{
+			audioManager.PlaySFX(audioManager.bomb);
+		}
 
-        yield return new WaitForSeconds(bombFuseTime);
+		yield return new WaitForSeconds(bombFuseTime);
 
         position = bomb.transform.position;
         position.x = Mathf.Round(position.x);
@@ -79,7 +84,11 @@ public class BombController : MonoBehaviour
 		explosion.SetActiveRenderer(explosion.start);
         explosion.DestroyAfter(explosionDuration);
 
-        audioManager.PlaySFX(audioManager.boomBreak);
+		//audioManager.PlaySFX(audioManager.boomBreak);
+		if (audioManager != null && audioManager.boomBreak != null)
+		{
+			audioManager.PlaySFX(audioManager.boomBreak);
+		}
 
 		Explode(position, Vector2.up, explosionRadius, explosionID);
 		Explode(position, Vector2.down, explosionRadius, explosionID);

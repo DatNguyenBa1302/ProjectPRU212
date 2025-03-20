@@ -5,6 +5,7 @@ using UnityEngine.Tilemaps;
 
 public class BossController : MonoBehaviour
 {
+	private AudioManager audioManager;
 	[Header("===== BOSS STATS =====")]
 	public int maxHealth = 30;
 	public int currentHealth;
@@ -78,7 +79,12 @@ public class BossController : MonoBehaviour
 	private float damageCooldown = 0.5f;
 	private float lastDamageTime;
 
-	void Start()
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
+    void Start()
 	{
 		rb = GetComponent<Rigidbody2D>();
 
@@ -401,7 +407,12 @@ public class BossController : MonoBehaviour
 		currentHealth -= damage;
 		healthBar.UpdateHealthBar(currentHealth, maxHealth);
 
-		if (currentHealth <= 0)
+        if (audioManager != null && audioManager.boss != null)
+        {
+            audioManager.PlaySFX(audioManager.boss);
+        }
+
+        if (currentHealth <= 0)
 		{
 			healthBar.gameObject.SetActive(false);
 			Die();
@@ -420,8 +431,13 @@ public class BossController : MonoBehaviour
 		DisableAllRenderers();
 		spriteRenderDeath.enabled = true;
 
-		// Tùy code cũ mà bạn hủy object, animator, hay delay...
-		Destroy(gameObject, 2f);
+        if (audioManager != null && audioManager.boss != null)
+        {
+            audioManager.PlaySFX(audioManager.boss);
+        }
+
+        // Tùy code cũ mà bạn hủy object, animator, hay delay...
+        Destroy(gameObject, 2f);
 	}
 
 	void TriggerHitEffect()

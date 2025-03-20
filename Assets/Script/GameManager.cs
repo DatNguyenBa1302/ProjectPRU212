@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        audioManager = FindAnyObjectByType<AudioManager>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void Start()
