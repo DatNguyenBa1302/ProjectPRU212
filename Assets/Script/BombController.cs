@@ -24,8 +24,13 @@ public class BombController : MonoBehaviour
 
 	private HashSet<Vector2> bombPositions = new HashSet<Vector2>();
 	private bool bombPlacementInProgress = false;
+    private AudioManager audioManager;
+    private void Awake()
+    {
+        audioManager = FindAnyObjectByType<AudioManager>();
+    }
 
-	private void OnEnable()
+    private void OnEnable()
     {
         bombsRemaining = bombAmount;
     }
@@ -59,8 +64,13 @@ public class BombController : MonoBehaviour
 		GameObject bomb =  Instantiate(bombPrefab, position, Quaternion.identity);
 		bombPositions.Add(position);
 		bombsRemaining--;
+		//audioManager.PlaySFX(audioManager.bomb);
+		if (audioManager != null && audioManager.bomb != null)
+		{
+			audioManager.PlaySFX(audioManager.bomb);
+		}
 
-        yield return new WaitForSeconds(bombFuseTime);
+		yield return new WaitForSeconds(bombFuseTime);
 
         position = bomb.transform.position;
         position.x = Mathf.Round(position.x);
@@ -69,10 +79,15 @@ public class BombController : MonoBehaviour
 		int explosionID = Random.Range(0, int.MaxValue);
 
 		Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-		explosion.explosionID = explosionID;
 		explosion.explosionOwner = "Player";
 		explosion.SetActiveRenderer(explosion.start);
         explosion.DestroyAfter(explosionDuration);
+
+		//audioManager.PlaySFX(audioManager.boomBreak);
+		if (audioManager != null && audioManager.boomBreak != null)
+		{
+			audioManager.PlaySFX(audioManager.boomBreak);
+		}
 
 		Explode(position, Vector2.up, explosionRadius, explosionID);
 		Explode(position, Vector2.down, explosionRadius, explosionID);
@@ -81,7 +96,7 @@ public class BombController : MonoBehaviour
 
 		bombPositions.Remove(position);
 
-		Destroy(bomb );
+		Destroy(bomb);
         bombsRemaining++;   
     }
 
@@ -91,7 +106,7 @@ public class BombController : MonoBehaviour
         {
             other.isTrigger = false;
         }
-    }
+    } 
 
     private void Explode(Vector2 position, Vector2 direction, int length, int explosionID)
     {
@@ -110,7 +125,6 @@ public class BombController : MonoBehaviour
         }else
         {
             Explosion explosion = Instantiate(explosionPrefab, position, Quaternion.identity);
-			explosion.explosionID = explosionID;
 			explosion.explosionOwner = "Player";
 			explosion.SetActiveRenderer(length > 1 ? explosion.middle : explosion.end);
             explosion.SetDirection(direction);

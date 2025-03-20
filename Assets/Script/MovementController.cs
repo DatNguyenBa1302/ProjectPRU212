@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Security.Cryptography;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class MovementController : MonoBehaviour
@@ -20,19 +22,32 @@ public class MovementController : MonoBehaviour
 	public AnimationSpritesRender spriteRenderDeath;
 	private AnimationSpritesRender activeSpriteRender;
 
-	//Mau cua nhan vat
 	public int currentHealth { get; set; }
 	public int startingHealth;
 
+	private float damageCooldown = 2f;
+	private float lastDamageTime;
+	private bool canMove = true;
+
+
+	private Collider2D playerCollider;
 	public void Awake()
 	{
 		rigidbody = GetComponent<Rigidbody2D>();
-		activeSpriteRender = spriteRenderDown;
+		playerCollider = GetComponent<Collider2D>();
 		currentHealth = startingHealth;
+		activeSpriteRender = spriteRenderDown;
 	}
 
 	private void Update()
 	{
+		if (!canMove)
+		{
+			// Đảm bảo animation ở trạng thái idle
+			SetDirection(Vector2.zero, activeSpriteRender);
+			return;
+		}
+
 		if (Input.GetKey(inputUp))
 		{
 			SetDirection(Vector2.up, spriteRenderUp);
@@ -81,24 +96,75 @@ public class MovementController : MonoBehaviour
 	{
 		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion") || other.gameObject.layer == LayerMask.NameToLayer("Enermy"))
 		{
-			if (currentHealth > 0)
+			if (Time.time >= lastDamageTime + damageCooldown)
 			{
-				currentHealth--;
-				Debug.Log("Remaining Health: " + currentHealth);
 
-				// Chỉ gọi chuỗi chết khi máu đã hết
-				if (currentHealth <= 0)
+				if (currentHealth > 0)
 				{
+					lastDamageTime = Time.time;
+					currentHealth--;
+					// Chỉ gọi chuỗi chết khi máu đã hết
+					if (currentHealth <= 0)
+					{
+						DeathSequence();
+					}
+				}
+				else
+				{
+					// Trường hợp đã hết máu
 					DeathSequence();
 				}
 			}
-			else
+
+		}
+	}
+	private void OnCollisionEnter2D(Collision2D other)
+	{
+		if (other.gameObject.layer == LayerMask.NameToLayer("Enermy"))
+		{
+			if (Time.time >= lastDamageTime + damageCooldown)
 			{
-				// Trường hợp đã hết máu
-				DeathSequence();
+				lastDamageTime = Time.time;
+				playerCollider.isTrigger = true; // cho đi xuyên tạm
+				TakeDamage(1);
+
+				if (currentHealth > 0)
+				{
+					// Nếu chưa chết, tự bật tắt collider lại
+					StartCoroutine(TurnOnTrigger());
+				}
 			}
 		}
 	}
+	private void TakeDamage(int amount)
+	{
+		currentHealth -= amount;
+
+		// Gọi stun 0.5s mỗi lần dính đòn
+		StartCoroutine(DisableMovement(0.5f));
+
+		// Nếu máu hết => DeathSequence
+		if (currentHealth <= 0)
+		{
+			playerCollider.isTrigger = true; // tránh kẹt
+			DeathSequence();
+		}
+	}
+
+	private IEnumerator TurnOnTrigger()
+	{
+		yield return new WaitForSeconds(0.5f);
+		playerCollider.isTrigger = false;
+	}
+
+	private IEnumerator DisableMovement(float duration)
+	{
+		canMove = false;
+		direction = Vector2.zero; 
+		yield return new WaitForSeconds(duration);
+		canMove = true;
+	}
+
 
 	private void DeathSequence()
 	{

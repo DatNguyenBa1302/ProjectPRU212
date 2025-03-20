@@ -2,7 +2,13 @@ using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
-	public enum ItemType
+    private AudioManager audioManager;
+
+    private void Awake()
+    {
+        audioManager = FindAnyObjectByType<AudioManager>();
+    }
+    public enum ItemType
 	{
 		ExtraBomb,
 		BlastRadius,
@@ -30,6 +36,7 @@ public class ItemPickup : MonoBehaviour
 	{
 		if (other.CompareTag("Player"))
 		{
+			audioManager.PlaySFX(audioManager.getItem);
 			OnItemPickup(other.gameObject);
 			Destroy(this.gameObject);
 		}

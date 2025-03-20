@@ -104,7 +104,7 @@ public class RandomWalkController : MonoBehaviour
 
 	bool IsBlocked(Vector2 direction)
 	{
-		RaycastHit2D hit = Physics2D.Raycast(rb.position, direction, 0.55f, obstacleLayer);
+		RaycastHit2D hit = Physics2D.Raycast(rb.position, direction, 0.8f, obstacleLayer);
 		return hit.collider != null;
 	}
 
@@ -129,7 +129,6 @@ public class RandomWalkController : MonoBehaviour
 		activeSpriteRender.enabled = true;
 		activeSpriteRender.idle = false;
 	}
-
 	private void OnTriggerEnter2D(Collider2D other)
 	{
 		if (other.gameObject.layer == LayerMask.NameToLayer("Explosion"))
@@ -145,14 +144,10 @@ public class RandomWalkController : MonoBehaviour
 
 	private void DeathSequence()
 	{
-		if (isDead) return;
-		isDead = true;
 		enabled = false;
+		//GetComponent<BombController>().enabled = false;
 
-		spriteRenderDown.enabled = false;
-		spriteRenderUp.enabled = false;
-		spriteRenderRight.enabled = false;
-		spriteRenderLeft.enabled = false;
+		DisableAllSprites();
 		spriteRenderDeath.enabled = true;
 
 		Invoke(nameof(OnDeathSequenceEnded), 1.25f);
@@ -162,5 +157,15 @@ public class RandomWalkController : MonoBehaviour
 	{
 		gameObject.SetActive(false);
 		FindObjectOfType<GameManager>().CheckWinState();
+	}
+
+	private void DisableAllSprites()
+	{
+		spriteRenderUp.enabled = false;
+		spriteRenderDown.enabled = false;
+		spriteRenderLeft.enabled = false;
+		spriteRenderRight.enabled = false;
+
+		spriteRenderDeath.enabled = false;
 	}
 }

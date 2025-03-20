@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      btn_XepHang-removebg-preview_0: 8876830837121390647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

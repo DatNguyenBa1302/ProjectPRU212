@@ -6,7 +6,6 @@ public class Explosion : MonoBehaviour
     public AnimationSpritesRender middle;
     public AnimationSpritesRender end;
 
-	public int explosionID;
 	public string explosionOwner;
 
 	public void SetActiveRenderer(AnimationSpritesRender renderer)
