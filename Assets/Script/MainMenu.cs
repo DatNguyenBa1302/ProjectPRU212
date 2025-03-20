@@ -12,7 +12,7 @@ public class MainMenu : MonoBehaviour
 
 	public void PlayGame()
 	{
-		SceneManager.LoadSceneAsync(1);
+		SceneManager.LoadSceneAsync("Map1");
 	}
 
 	public void PlayWithFriendMap_1()

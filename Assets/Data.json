@@ -2,19 +2,19 @@
     "data": [
         {
             "Map": "Map 1",
-            "Timer": "01:19"
+            "Timer": "00:05"
         },
         {
             "Map": "Map 2",
-            "Timer": "00:00"
+            "Timer": "00:06"
         },
         {
             "Map": "Map 3",
-            "Timer": "00:57"
+            "Timer": "01:38"
         },
         {
             "Map": "Map 4",
-            "Timer": "00:00"
+            "Timer": "01:07"
         }
     ]
 }
