@@ -25,7 +25,7 @@ public class BombController : MonoBehaviour
 
 	private HashSet<Vector2> bombPositions = new HashSet<Vector2>();
 	private bool bombPlacementInProgress = false;
-    
+
     private void Awake()
     {
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
@@ -65,13 +65,13 @@ public class BombController : MonoBehaviour
 		GameObject bomb =  Instantiate(bombPrefab, position, Quaternion.identity);
 		bombPositions.Add(position);
 		bombsRemaining--;
-		//audioManager.PlaySFX(audioManager.bomb);
-		if (audioManager != null && audioManager.bomb != null)
-		{
-			audioManager.PlaySFX(audioManager.bomb);
-		}
 
-		yield return new WaitForSeconds(bombFuseTime);
+        if (audioManager != null && audioManager.bomb != null)
+        {
+            audioManager.PlaySFX(audioManager.bomb);
+        }
+
+        yield return new WaitForSeconds(bombFuseTime);
 
         position = bomb.transform.position;
         position.x = Mathf.Round(position.x);
@@ -84,13 +84,12 @@ public class BombController : MonoBehaviour
 		explosion.SetActiveRenderer(explosion.start);
         explosion.DestroyAfter(explosionDuration);
 
-		//audioManager.PlaySFX(audioManager.boomBreak);
-		if (audioManager != null && audioManager.boomBreak != null)
-		{
-			audioManager.PlaySFX(audioManager.boomBreak);
-		}
+        if (audioManager != null && audioManager.boomBreak != null)
+        {
+            audioManager.PlaySFX(audioManager.boomBreak);
+        }
 
-		Explode(position, Vector2.up, explosionRadius, explosionID);
+        Explode(position, Vector2.up, explosionRadius, explosionID);
 		Explode(position, Vector2.down, explosionRadius, explosionID);
 		Explode(position, Vector2.left, explosionRadius, explosionID);
 		Explode(position, Vector2.right, explosionRadius, explosionID);

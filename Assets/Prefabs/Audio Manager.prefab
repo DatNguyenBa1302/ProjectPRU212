@@ -56,7 +56,7 @@ MonoBehaviour:
   playerDame: {fileID: 8300000, guid: 3aa5ed5331750714ba721ba0dae15c46, type: 3}
   ghost: {fileID: 8300000, guid: 2fceaf0ed3d6aad429b082adc644aec5, type: 3}
   boss: {fileID: 8300000, guid: 9d5844b93fa9eec4eb94e4d56cb87365, type: 3}
-  tank: {fileID: 8300000, guid: 2dbd8d5673e7b8a4ca646d72c604724d, type: 3}
+  tank: {fileID: 8300000, guid: cc41af88f88c2294f895e389c520d713, type: 3}
   random: {fileID: 8300000, guid: 3c5b1c13ba3397541808c3273de53bb2, type: 3}
   getItem: {fileID: 8300000, guid: 70d2d52c24502424ab3bb4e27188db2f, type: 3}
 --- !u!1 &8576930214842039919

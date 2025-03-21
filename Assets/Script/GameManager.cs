@@ -66,7 +66,6 @@ public class GameManager : MonoBehaviour
 			{
 				
 				alivePlayers++;
-				Debug.Log(player.name);
 			}
 		}
 		if (isPlayingWithFriendMode)
@@ -112,9 +111,8 @@ public class GameManager : MonoBehaviour
 		SaveToJson();
 		gameOverScreen.SetActive(true);
 		timerTextGameOverScreen.text = timerText.text;
-		//SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-		audioManager.PlaySFX(audioManager.lose);
-	}
+        audioManager.PlaySFX(audioManager.lose);
+    }
 
 	public void RestartButton()
 	{
@@ -129,8 +127,8 @@ public class GameManager : MonoBehaviour
 		SaveToJson();
 		winnerScreen.SetActive(true);
 		timerTextWinnerScreen.text = timerText.text;
-		audioManager.PlaySFX(audioManager.win);
-	}
+        audioManager.PlaySFX(audioManager.win);
+    }
 
 	public void NextButton()
 	{
@@ -150,7 +148,7 @@ public class GameManager : MonoBehaviour
 	}
 	public void MainMenuButton()
 	{
-		winnerScreen.SetActive(true);
+		SceneManager.LoadSceneAsync("MainMenu");
 	}
 
 	public void SaveToJson()

@@ -12,19 +12,17 @@ public class MainMenu : MonoBehaviour
 
 	public void PlayGame()
 	{
-		SceneManager.LoadSceneAsync(3);
+		SceneManager.LoadSceneAsync("Map1");
 	}
 
 	public void PlayWithFriendMap_1()
 	{
-		Debug.Log("NHAN NUT");
-		SceneManager.LoadSceneAsync(1);
+		SceneManager.LoadSceneAsync("Map1_PlayWithFriend");
 	}
 
 	public void PlayWithFriendMap_2()
 	{
-		Debug.Log("NHAN NUT 2");
-		SceneManager.LoadSceneAsync(2);
+		SceneManager.LoadSceneAsync("Map2_PlayWithFriend");
 	}
 
 	public void QuitGame()

@@ -30,8 +30,7 @@ public class MovementController : MonoBehaviour
 	private float lastDamageTime;
 	private bool canMove = true;
 
-
-	private Collider2D playerCollider;
+    private Collider2D playerCollider;
 	public void Awake()
 	{
 		rigidbody = GetComponent<Rigidbody2D>();
@@ -145,10 +144,12 @@ public class MovementController : MonoBehaviour
 	private void TakeDamage(int amount)
 	{
 		currentHealth -= amount;
+
         if (audioManager != null && audioManager.playerDame != null)
         {
             audioManager.PlaySFX(audioManager.playerDame);
         }
+
         // Gọi stun 0.5s mỗi lần dính đòn
         StartCoroutine(DisableMovement(0.5f));
 

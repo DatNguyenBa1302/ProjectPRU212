@@ -16,15 +16,15 @@ EditorBuildSettings:
     guid: 32970333a2b40ec4c85450ebb4252127
   - enabled: 1
     path: Assets/Scenes/Map1.unity
+    guid: fe1f20c1326d81b47a31c5e8ce122055
+  - enabled: 1
+    path: Assets/Scenes/Map2.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/Map3.unity
     guid: 956c07aac1ed38c4d83255f54a095dcd
   - enabled: 1
-    path: Assets/Scenes/Map2.unity
-    guid: fe1f20c1326d81b47a31c5e8ce122055
-  - enabled: 1
-    path: Assets/Scenes/Map5_PlayWithFriend.unity
-    guid: dd30638728ecb0c449a7acdfb7434db7
+    path: Assets/Scenes/Map4.unity
+    guid: 748e78fc95b7c5c4a831160de887c7e5
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

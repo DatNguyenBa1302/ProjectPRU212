@@ -5,8 +5,8 @@ using UnityEngine.Tilemaps;
 
 public class BossController : MonoBehaviour
 {
-	private AudioManager audioManager;
-	[Header("===== BOSS STATS =====")]
+    private AudioManager audioManager;
+    [Header("===== BOSS STATS =====")]
 	public int maxHealth = 30;
 	public int currentHealth;
 	public bool isEnraged = false;
@@ -30,8 +30,8 @@ public class BossController : MonoBehaviour
 	[Header("===== BOMB SETTINGS =====")]
 	public GameObject bombPrefab;
 	public float bombFuseTime = 2f;
-	public int bombAmount = 2;
-	public int enragedBombAmount = 4;
+	public int bombAmount = 3;
+	public int enragedBombAmount = 6;
 	private int bombsOnField = 0;
 
 	public float minBombInterval = 2f;
@@ -112,14 +112,6 @@ public class BossController : MonoBehaviour
 
 	void Update()
 	{
-		if (isDead) return;
-
-		// Kiểm tra Enraged
-		if (!isEnraged && currentHealth < maxHealth / 2)
-		{
-			EnterEnragedState();
-		}
-
 		// Đặt bom
 		bombTimer += Time.deltaTime;
 		if (bombTimer >= nextBombTime)
@@ -128,7 +120,16 @@ public class BossController : MonoBehaviour
 			bombTimer = 0f;
 			nextBombTime = Random.Range(minBombInterval, maxBombInterval);
 		}
+		if (isDead) 
+			return;
+		
 
+
+		// Kiểm tra Enraged
+		if (!isEnraged && currentHealth < maxHealth / 2)
+		{
+			EnterEnragedState();
+		}
 		// Animation (chỉ cập nhật sprite - di chuyển để trong FixedUpdate)
 		UpdateAnimation();
 	}
@@ -187,9 +188,6 @@ public class BossController : MonoBehaviour
 		}
 	}
 
-	// ====================================================
-	// =============== HÀM CHỌN HƯỚNG MỚI =================
-	// ====================================================
 	void ChooseDirectionBasedOnEnvironment()
 	{
 		List<Vector2> possibleDirections = new List<Vector2>();
@@ -216,25 +214,46 @@ public class BossController : MonoBehaviour
 		}
 	}
 
-	// Kiểm tra cản trở (raycast 1 đơn vị)
+
 	bool IsBlocked(Vector2 direction)
 	{
-		if (direction == Vector2.zero) return true; // zero direction -> "coi như" bị chặn
+		if (direction == Vector2.zero) return false; // Không có hướng => không clear
 
-		RaycastHit2D hit = Physics2D.Raycast(
-			transform.position,
-			direction,
-			obstacleCheckDistance, // thường = 1f
-			obstacleLayer
-		);
-		return (hit.collider != null);
+		// Giả sử boss có kích thước 3x3 và mỗi ô có kích thước 1 đơn vị,
+		// ta dùng offset = 1 để dịch sang trái và phải.
+		float offset = 1f;
+
+		// Lấy vị trí tâm của boss
+		Vector2 centerOrigin = transform.position;
+		centerOrigin.y = centerOrigin.y - 1;
+
+		// Tính các vị trí bắn ray:
+		// Nếu boss di chuyển theo 'direction', các ray sẽ được bắn từ:
+		// - trung tâm,
+		// - bên trái: dịch sang trái theo hướng ngang của boss (transform.right)
+		// - bên phải: dịch sang phải theo hướng ngang của boss (transform.right)
+		Vector2 leftOrigin = centerOrigin - (Vector2)transform.right * offset;
+		Vector2 rightOrigin = centerOrigin + (Vector2)transform.right * offset;
+
+		// Bắn ray từ 3 vị trí theo cùng 1 hướng với khoảng cách obstacleCheckDistance
+		bool centerClear = Physics2D.Raycast(centerOrigin, direction, obstacleCheckDistance, obstacleLayer).collider != null;
+		bool leftClear = Physics2D.Raycast(leftOrigin, direction, obstacleCheckDistance, obstacleLayer).collider != null;
+		bool rightClear = Physics2D.Raycast(rightOrigin, direction, obstacleCheckDistance, obstacleLayer).collider != null;
+
+		/*Debug.Log("direction  " + direction);
+		Debug.Log("centerOrigin " + centerOrigin);
+		Debug.Log("leftOrigin " + leftOrigin);
+		Debug.Log("rightOrigin " + rightOrigin);
+		Debug.Log("centerClear " + centerClear);
+		Debug.Log("leftClear " + leftClear);
+		Debug.Log("rightClear " + rightClear);
+		Debug.DrawRay(centerOrigin, direction * obstacleCheckDistance, Color.red);
+		Debug.DrawRay(leftOrigin, direction * obstacleCheckDistance, Color.red);
+		Debug.DrawRay(rightOrigin, direction * obstacleCheckDistance, Color.red);*/
+		return centerClear || leftClear || rightClear;
+		
 	}
 
-	// ====================================================
-	// =============== CÁC CƠ CHẾ KHÁC GIỮ NGUYÊN =========
-	// ====================================================
-
-	// Animation của Boss (không thay đổi cơ chế cũ)
 	void UpdateAnimation()
 	{
 		if (isEnragedAnimating || isStunned) return;
@@ -244,12 +263,6 @@ public class BossController : MonoBehaviour
 		else if (moveDirection == Vector2.down) SetActiveRenderer(spriteRenderDown);
 		else if (moveDirection == Vector2.left) SetActiveRenderer(spriteRenderLeft);
 		else if (moveDirection == Vector2.right) SetActiveRenderer(spriteRenderRight);
-		else
-		{
-			// Nếu moveDirection = zero => tạm cho idle theo hướng cuối cùng 
-			// (hoặc bạn có thể tùy chọn down/up/left/right).
-			// Ở đây ví dụ giữ nguyên spriteRenderDown
-		}
 	}
 
 	void SetActiveRenderer(AnimationSpritesRender newRenderer)
@@ -291,7 +304,7 @@ public class BossController : MonoBehaviour
 		}
 	}
 
-	System.Collections.IEnumerator DisableEnragedEffect()
+	IEnumerator DisableEnragedEffect()
 	{
 		yield return new WaitForSeconds(2f);
 		spriteRenderEnraged.enabled = false;
@@ -301,7 +314,7 @@ public class BossController : MonoBehaviour
 	// Đặt bom
 	void TryPlaceBomb()
 	{
-		if (isDead) return;
+		//if (isDead) return;
 
 		int maxBombCanUse = isEnraged ? enragedBombAmount : bombAmount;
 		if (bombsOnField >= maxBombCanUse) return;
@@ -316,34 +329,51 @@ public class BossController : MonoBehaviour
 		}
 	}
 
-	System.Collections.IEnumerator PlaceBombRoutine()
+	IEnumerator PlaceBombRoutine()
 	{
+		// Lấy vị trí của Boss làm trụ sở đặt bom, làm tròn để đảm bảo khớp với lưới
 		Vector2 placePos = transform.position;
 		placePos.x = Mathf.Round(placePos.x);
 		placePos.y = Mathf.Round(placePos.y);
 
-		GameObject bomb = Instantiate(bombPrefab, placePos, Quaternion.identity);
-		bombsOnField++;
+		// Tạo danh sách lưu các bom được instantiate
+		List<GameObject> bombList = new List<GameObject>();
 
+		// Giả sử boss đặt 3 quả bom theo hàng dọc, với mỗi ô cách nhau 1 đơn vị.
+		// Vị trí: dưới, giữa, trên (offset -1, 0, +1 trên trục Y)
+		for (int i = -1; i <= 1; i++)
+		{
+			Vector2 bombPos = placePos + new Vector2(0, i);
+			GameObject bomb = Instantiate(bombPrefab, bombPos, Quaternion.identity);
+			bombList.Add(bomb);
+			bombsOnField++;
+		}
+
+		// Chờ thời gian hoà nổ của bom
 		yield return new WaitForSeconds(bombFuseTime);
 
-		Vector2 explosionPos = bomb.transform.position;
 		int explosionRange = isEnraged ? enragedExplosionRadius : normalExplosionRadius;
 
-		// Tạo vụ nổ trung tâm
-		Explosion centerExp = Instantiate(explosionPrefab, explosionPos, Quaternion.identity);
-		centerExp.explosionOwner = "Boss";
-		centerExp.SetActiveRenderer(centerExp.start);
-		centerExp.DestroyAfter(explosionDuration);
+		// Với từng quả bom, thực hiện hiệu ứng nổ
+		foreach (GameObject bomb in bombList)
+		{
+			Vector2 explosionPos = bomb.transform.position;
 
-		// lan 4 hướng
-		Explode(explosionPos, Vector2.up, explosionRange);
-		Explode(explosionPos, Vector2.down, explosionRange);
-		Explode(explosionPos, Vector2.left, explosionRange);
-		Explode(explosionPos, Vector2.right, explosionRange);
+			// Tạo vụ nổ trung tâm tại vị trí của bom
+			Explosion centerExp = Instantiate(explosionPrefab, explosionPos, Quaternion.identity);
+			centerExp.explosionOwner = "Boss";
+			centerExp.SetActiveRenderer(centerExp.start);
+			centerExp.DestroyAfter(explosionDuration);
 
-		Destroy(bomb);
-		bombsOnField--;
+			// Lan vụ nổ theo 4 hướng
+			Explode(explosionPos, Vector2.up, explosionRange);
+			Explode(explosionPos, Vector2.down, explosionRange);
+			Explode(explosionPos, Vector2.left, explosionRange);
+			Explode(explosionPos, Vector2.right, explosionRange);
+
+			Destroy(bomb);
+			bombsOnField--;
+		}
 	}
 
 	void Explode(Vector2 pos, Vector2 direction, int length)
@@ -415,7 +445,7 @@ public class BossController : MonoBehaviour
         if (currentHealth <= 0)
 		{
 			healthBar.gameObject.SetActive(false);
-			Die();
+			DeathSequence();
 		}
 		else
 		{
@@ -423,8 +453,9 @@ public class BossController : MonoBehaviour
 		}
 	}
 
-	void Die()
+	private void DeathSequence()
 	{
+		enabled = false;
 		if (isDead) return;
 		isDead = true;
 
@@ -436,8 +467,13 @@ public class BossController : MonoBehaviour
             audioManager.PlaySFX(audioManager.boss);
         }
 
-        // Tùy code cũ mà bạn hủy object, animator, hay delay...
-        Destroy(gameObject, 2f);
+        Invoke(nameof(OnDeathSequenceEnded), 1.25f);
+	}
+
+	private void OnDeathSequenceEnded()
+	{
+		gameObject.SetActive(false);
+		FindObjectOfType<GameManager>().CheckWinState();
 	}
 
 	void TriggerHitEffect()
