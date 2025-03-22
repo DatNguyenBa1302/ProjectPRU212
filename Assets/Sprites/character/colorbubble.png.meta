@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      colorbubble_0: 6596001855326480905
+      colorbubble_1: -4691588831069241378
+      colorbubble_2: 8662913569759121698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
